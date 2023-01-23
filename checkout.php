@@ -1,0 +1,908 @@
+﻿<!doctype html>
+<html lang="es">
+    <head>
+		<!-- Required meta tags -->
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+		<!-- Bootstrap Min CSS --> 
+		<link rel="stylesheet" href="assets/css/bootstrap.min.css">
+		<!-- Owl Theme Default Min CSS --> 
+		<link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
+		<!-- Owl Carousel Min CSS --> 
+		<link rel="stylesheet" href="assets/css/owl.carousel.min.css">
+		<!-- Remixicon CSS --> 
+		<link rel="stylesheet" href="assets/css/remixicon.css">
+		<!-- Meanmenu Min CSS -->
+		<link rel="stylesheet" href="assets/css/meanmenu.min.css">
+		<!-- Animate Min CSS --> 
+		<link rel="stylesheet" href="assets/css/animate.min.css">
+		<!-- Magnific Popup Min CSS --> 
+		<link rel="stylesheet" href="assets/css/magnific-popup.min.css">
+		<!-- Date Picker Min CSS --> 
+		<link rel="stylesheet" href="assets/css/date-picker.min.css">
+		<!-- Before After Min CSS --> 
+		<link rel="stylesheet" href="assets/css/before-after.min.css">
+		<!-- Odometer Min CSS --> 
+		<link rel="stylesheet" href="assets/css/odometer.min.css">
+		<!-- Style CSS -->
+		<link rel="stylesheet" href="assets/css/style.css">
+		<!-- Responsive CSS -->
+		<link rel="stylesheet" href="assets/css/responsive.css">
+		
+		<!-- Favicon -->
+		<link rel="icon" type="image/png" href="assets/images/favicon.png">
+		<!-- Title -->
+		<title>Gerardo Camacho Template</title>
+    </head>
+
+    <body>
+		<!-- Start Preloader Area -->
+		<div class="preloader">
+			<div class="lds-ripple">
+				<div class="preloader-container">
+					<div class="petal"></div>
+					<div class="petal"></div>
+					<div class="petal"></div>
+					<div class="petal"></div>
+					<div class="petal"></div>
+					<div class="petal"></div>
+					<div class="petal"></div>
+					<div class="petal"></div>
+					<div class="petal-1"></div>
+					<div class="petal-1"></div>
+					<div class="petal-1"></div>
+					<div class="ball"></div>
+				</div>
+			</div>
+		</div>
+		<!-- End Preloader Area -->
+		
+		<!-- Start Header Area -->
+		<header class="header-area">
+			<!-- Start Top Header -->
+			<div class="top-header">
+				<div class="container">
+					<div class="row align-items-center">
+						<div class="col-lg-6 col-md-6">
+							<div class="header-left-content">
+								<div class="header-left-content">
+								<ul class="contact-info">
+									<li>
+										<i class="ri-mail-line"></i>
+										<a href="mailto:hello@faceat.com">
+											hello@faceat.com
+										</a>
+									</li>
+									<li>
+										<i class="ri-customer-service-fill"></i>
+										<a href="tel:(312)-895-9800">
+											(312) 895-9800
+										</a>
+									</li>
+								</ul>
+							</div>
+							</div>
+						</div>
+
+						<div class="col-lg-6 col-md-6">
+							<div class="header-right-content">
+								<div class="languages-switcher">
+									<i class="ri-global-line"></i>
+									<select>
+										<option value="1">English</option>	
+										<option value="2">Japan</option>
+										<option value="3">Deutsch</option>
+										<option value="4">Português</option>
+										<option value="5">China</option>
+									</select>
+								</div>
+
+								<ul class="social-link">
+									<li>
+										<a href="../index.htm" target="_blank">
+											<i class="ri-linkedin-fill"></i>
+										</a>
+									</li>
+									<li>
+										<a href="../index-1.htm" target="_blank">
+											<i class="ri-facebook-fill"></i>
+										</a>
+									</li>
+									<li>
+										<a href="../index-2.htm" target="_blank">
+											<i class="ri-twitter-fill"></i>
+										</a>
+									</li>
+									<li>
+										<a href="../index-3.htm" target="_blank">
+											<i class="ri-youtube-fill"></i>
+										</a>
+									</li>
+									<li>
+										<a href="../index-4.htm" target="_blank">
+											<i class="ri-vimeo-fill"></i>
+										</a>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- Start Top Header -->
+			
+			<!-- Start Navbar Area -->
+			<div class="navbar-area">
+                <div class="mobile-responsive-nav">
+                    <div class="container">
+                        <div class="mobile-responsive-menu">
+                            <div class="logo">
+                                <a href="index.php">
+									<img src="assets/images/logo.png" alt="logo">
+								</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="desktop-nav">
+                    <div class="container">
+                        <nav class="navbar navbar-expand-md navbar-light">
+                            <a class="navbar-brand" href="index.php">
+                                <img src="assets/images/logo.png" alt="logo">
+                            </a>
+
+                            <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
+                                <ul class="navbar-nav">
+									<li class="nav-item">
+										<a href="#" class="nav-link">
+											Inicio 
+											<i class="ri-arrow-down-s-line"></i>
+										</a>
+
+                                        <ul class="dropdown-menu">
+                                            <li class="nav-item">
+												<a href="index.php" class="nav-link">Inicio One</a>
+											</li>
+                                            <li class="nav-item">
+												<a href="index.php" class="nav-link">Inicio Two</a>
+											</li>
+                                            <li class="nav-item">
+												<a href="index-3.php" class="nav-link">Inicio Three</a>
+											</li>
+                                        </ul>
+									</li>
+									
+									<li class="nav-item">
+										<a href="nosotros.php" class="nav-link">Nosotros</a>
+									</li>
+									<li class="nav-item">
+										<a href="tratamientos.php" class="nav-link">Tratamientos</a>
+									</li>
+
+                                    <li class="nav-item">
+										<a href="#" class="nav-link active">
+											Pages 
+											<i class="ri-arrow-down-s-line"></i>
+										</a>
+
+                                        <ul class="dropdown-menu">
+											<li class="nav-item">
+												<a href="#" class="nav-link">
+													Services 
+													<i class="ri-arrow-down-s-line"></i>
+												</a>
+		
+												<ul class="dropdown-menu">
+													<li class="nav-item">
+														<a href="services.php" class="nav-link">Services</a>
+													</li>
+													<li class="nav-item">
+														<a href="services-details.php" class="nav-link">Services Details</a>
+													</li>
+												</ul>
+											</li>
+
+											<li class="nav-item">
+												<a href="#" class="nav-link">
+													Our Doctors 
+													<i class="ri-arrow-down-s-line"></i>
+												</a>
+		
+												<ul class="dropdown-menu">
+													<li class="nav-item">
+														<a href="doctors.php" class="nav-link">Doctors</a>
+													</li>
+													<li class="nav-item">
+														<a href="doctors-details.php" class="nav-link">Doctors Details</a>
+													</li>
+												</ul>
+											</li>
+
+											<li class="nav-item">
+												<a href="#" class="nav-link">
+													User 
+													<i class="ri-arrow-down-s-line"></i>
+												</a>
+		
+												<ul class="dropdown-menu">
+													<li class="nav-item">
+														<a href="my-account.php" class="nav-link">My Account</a>
+													</li>
+													<li class="nav-item">
+														<a href="log-in.php" class="nav-link">Log In</a>
+													</li>
+													<li class="nav-item">
+														<a href="register.php" class="nav-link">Register</a>
+													</li>
+													<li class="nav-item">
+														<a href="appointment.php" class="nav-link">Appointment</a>
+													</li>
+													
+												</ul>
+											</li>
+
+											<li class="nav-item">
+												<a href="#" class="nav-link active">
+													Shop 
+													<i class="ri-arrow-down-s-line"></i>
+												</a>
+		
+												<ul class="dropdown-menu">
+													<li class="nav-item">
+														<a href="product.php" class="nav-link">Product</a>
+													</li>
+													<li class="nav-item">
+														<a href="cart.php" class="nav-link">Cart </a>
+													</li>
+													<li class="nav-item">
+														<a href="checkout.php" class="nav-link active">Checkout</a>
+													</li>
+													<li class="nav-item">
+														<a href="wishlist.php" class="nav-link">Wishlist</a>
+													</li>
+													<li class="nav-item">
+														<a href="product-details.php" class="nav-link">Product Details</a>
+													</li>
+												</ul>
+											</li>
+                                            <li class="nav-item">
+												<a href="gallery.php" class="nav-link">Gallery</a>
+											</li>
+                                            <li class="nav-item">
+												<a href="faq.php" class="nav-link">FAQ</a>
+											</li>
+											<li class="nav-item">
+												<a href="testimonials.php" class="nav-link">Testimonials </a>
+											</li>
+											<li class="nav-item">
+												<a href="privacy-policy.php" class="nav-link">Privacy Policy</a>
+											</li>
+											<li class="nav-item">
+												<a href="terms-conditions.php" class="nav-link">Terms & Conditions</a>
+											</li>
+											<li class="nav-item">
+												<a href="partner-details.php" class="nav-link">Partner Details</a>
+											</li>
+											<li class="nav-item">
+												<a href="coming-soon.php" class="nav-link">Coming Soon</a>
+											</li>
+                                            <li class="nav-item">
+												<a href="404.php" class="nav-link">404 Page</a>
+											</li>
+										</ul>
+									</li>
+
+                                    <li class="nav-item">
+										<a href="#" class="nav-link">
+											Blog 
+											<i class="ri-arrow-down-s-line"></i>
+										</a>
+
+                                        <ul class="dropdown-menu">
+                                            <li class="nav-item">
+												<a href="blog-post-grid-view.php" class="nav-link">Blog Post Grid View</a>
+											</li>
+											<li class="nav-item">
+												<a href="blog.php" class="nav-link">Blog</a>
+											</li>
+                                            <li class="nav-item">
+												<a href="blog-post-with-stander.php" class="nav-link">Blog Post With Stander</a>
+											</li>
+                                            <li class="nav-item">
+												<a href="blog-details.php" class="nav-link">Blog Details</a>
+											</li>
+                                        </ul>
+                                    </li>
+
+                                    <li class="nav-item">
+										<a href="contacto.php" class="nav-link">Contacto</a>
+									</li>
+                                </ul>
+
+                                <div class="others-options">
+									<ul>
+										<li>
+											<a href="appointment.php" class="default-btn">
+												Appointment
+												<i class="ri-file-text-line"></i>
+											</a>
+										</li>
+
+										<li>
+											<span class="burger-menu">
+												<i class="ri-menu-3-fill"></i>
+											</span>
+										</li>
+									</ul>
+                                </div>
+                            </div>
+                        </nav>
+                    </div>
+				</div>
+				
+				<div class="others-option-for-responsive">
+					<div class="container">
+						<div class="dot-menu">
+							<div class="inner">
+								<div class="circle circle-one"></div>
+								<div class="circle circle-two"></div>
+								<div class="circle circle-three"></div>
+							</div>
+						</div>
+						
+						<div class="container">
+							<div class="option-inner">
+								<div class="others-option justify-content-center d-flex align-items-center">
+									<ul>
+										<li>
+											<a href="appointment.php" class="default-btn">
+												Appointment
+												<i class="ri-file-text-line"></i>
+											</a>
+										</li>
+
+										<li>
+											<span class="burger-menu">
+												<i class="ri-menu-3-fill"></i>
+											</span>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+            </div>
+			<!-- End Navbar Area -->
+		</header>
+		<!-- End Header Area -->
+
+		<!-- Start Sidebar Modal -->
+        <div class="sidebar-modal">
+            <div class="sidebar-modal-inner">
+				<div class="sidebar-header">
+					<div class="sidebar-logo">
+						<img src="assets/images/logo.png" alt="Image">
+					</div>
+					
+					<span class="close-btn sidebar-modal-close-btn">
+						<i class="ri-close-fill"></i>
+					</span>
+				</div>
+				
+                <div class="recent-product">
+                    <h3>Nosotros</h3>
+					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat ratione, quaerat veniam aliquam laborum quos, assumenda atque esse nulla voluptate, doloribus necessitatibus culpa. Ea sunt dicta eius explicabo accusantium vitae</p>
+				</div>
+				
+				<div class="contact-us">
+                    <h3>Contacto</h3>
+
+                    <ul>
+						<li>
+							<i class="ri-map-pin-line"></i>
+							121 King St, Melbourne VIC 3000, Australia.
+						</li>
+						<li>
+							<i class="ri-mail-line"></i>
+							<a href="mailto:hello@faceat.com"> hello@faceat.com</a>
+							<a href="mailto:info@faceat.com">info@faceat.com</a>
+						</li>
+						<li>
+							<i class="ri-customer-service-fill"></i>
+							<a href="tel:(312)-895-9800">(312) 895-9800</a>
+							<a href="tel:(312)-895-9888">(312) 895-9888</a>
+						</li>
+					</ul>
+				</div>
+            </div>
+        </div>
+		<!-- End Sidebar Modal -->
+
+		<!-- Start Page Title Area -->
+		<div class="page-title-area">
+			<div class="container">
+				<div class="page-title-content">
+					<h2>Checkout</h2>
+
+					<ul>
+						<li>
+							<a href="index.php">
+								Inicio 
+							</a>
+						</li>
+
+						<li class="active">Checkout</li>
+					</ul>
+				</div>
+			</div>
+
+			<div class="shape shape-1">
+				<img src="assets/images/page-title-shape-1.png" alt="Image">
+			</div>
+			<div class="shape shape-2">
+				<img src="assets/images/page-title-shape-2.png" alt="Image">
+			</div>
+		</div>
+		<!-- End Page Title Area -->
+
+		<!-- Start Checkout Area -->
+		<section class="checkout-area ptb-100">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-8 col-md-12">
+						<div class="log-in-coupon-code">
+							<div class="faq-accordion">
+								<ul class="accordion">
+									<li class="accordion-item">
+										<a class="accordion-title" href="javascript:void(0)">
+											Returning Customer? Click Here to Login
+										</a>
+										
+										<div class="contact-form-action accordion-content">
+											<p>Quisque gravida turpis sit amet nulla posuere lacinia. Cras sed est sit amet ipsum luctus.</p>
+											
+											<form method="post">
+												<div class="row">
+													<div class="col-12">
+														<div class="form-group">
+															<input class="form-control" type="text" name="name" placeholder="Username or Email">
+														</div>
+													</div>
+						
+													<div class="col-12">
+														<div class="form-group">
+															<input class="form-control" type="password" name="password" placeholder="Password">
+														</div>
+													</div>
+						
+													<div class="col-12">
+														<button class="default-btn" type="submit">
+															Log In
+														</button>
+													</div>
+												</div>
+											</form>
+										</div>
+									</li>
+								</ul>
+							</div>
+
+							<div class="faq-accordion">
+								<ul class="accordion">
+									<li class="accordion-item">
+										<a class="accordion-title" href="javascript:void(0)">
+											Have a Coupon? Click Here to Enter Your Code
+										</a>
+										
+										<div class="contact-form-action accordion-content">
+											<p>Now Apply Coupon</p>
+
+											<form method="post">
+												<div class="row">
+													<div class="col-12">
+														<div class="form-group">
+															<input class="form-control" type="text" name="Coupon" placeholder="Coupon Code">
+														</div>
+													</div>
+						
+													<div class="col-12">
+														<button class="default-btn" type="submit">
+															Apply Coupon
+														</button>
+													</div>
+												</div>
+											</form>
+										</div>
+									</li>
+								</ul>
+							</div>
+						</div>
+
+						<form>
+							<div class="billing-details">
+								<h3 class="title">Billing Details</h3>
+
+								<div class="row">
+									<div class="col-lg-6 col-md-6">
+										<div class="form-group">
+											<label>First Name <span class="required">*</span></label>
+											<input type="text" class="form-control">
+										</div>
+									</div>
+
+									<div class="col-lg-6 col-md-6">
+										<div class="form-group">
+											<label>Last Name <span class="required">*</span></label>
+											<input type="text" class="form-control">
+										</div>
+									</div>
+
+									<div class="col-lg-6 col-md-6">
+										<div class="form-group">
+											<label>Email <span class="required">*</span></label>
+											<input type="email" class="form-control">
+										</div>
+									</div>
+
+									<div class="col-lg-6 col-md-6">
+										<div class="form-group">
+											<label>Phone <span class="required">*</span></label>
+											<input type="text" class="form-control">
+										</div>
+									</div>
+
+									<div class="col-lg-12 col-md-12">
+										<div class="form-group">
+											<label>Company Name (Optional)
+											</label>
+											<input type="text" class="form-control">
+										</div>
+									</div>
+
+									<div class="col-lg-12 col-md-12">
+										<div class="form-group">
+											<label>Country <span class="required">*</span></label>
+										
+											<div class="select-box">
+												<select class="form-control">
+													<option value="5">United Kingdom</option>
+													<option value="1">China</option>
+													<option value="2">United Arab Emirates</option>
+													<option value="0">Germany</option>
+													<option value="3">France</option>
+													<option value="4">Japan</option>
+												</select>
+											</div>
+										</div>
+									</div>
+
+									<div class="col-lg-12 col-md-6">
+										<div class="form-group">
+											<label>Street Address <span class="required">*</span></label>
+											<input type="text" class="form-control">
+										</div>
+									</div>
+
+									<div class="col-lg-12 col-md-6">
+										<div class="form-group">
+											<label>Town / City <span class="required">*</span></label>
+											<input type="text" class="form-control">
+										</div>
+									</div>
+
+									<div class="col-lg-12 col-md-12">
+										<div class="form-group">
+											<label>State<span class="required">*</span></label>
+											<input type="text" class="form-control">
+										</div>
+									</div>
+
+									<div class="col-lg-12 col-md-12">
+										<div class="form-group">
+											<label>Zip <span class="required">*</span></label>
+											<input type="text" class="form-control">
+										</div>
+									</div>
+
+									<div class="col-lg-12 col-md-12">
+										<div class="form-check">
+											<input type="checkbox" class="form-check-input" id="ship-different-address">
+											<label class="form-check-label" for="ship-different-address">Ship to a Different Address?</label>
+										</div>
+									</div>
+
+									<div class="col-lg-12 col-md-12">
+										<div class="form-group">
+											<label>Order Notes (Optional)</label>
+											<textarea name="notes" id="notes" cols="30" rows="8" class="form-control"></textarea>
+										</div>
+									</div>
+
+									<div class="col-lg-12 col-md-12">
+										<div class="form-group">
+											<button class="default-btn">EnviarMessage</button>
+										</div>
+									</div>
+								</div>
+							</div>
+						</form>
+					</div>
+
+					<div class="col-lg-4 col-md-12">
+						<div class="order-details">
+							<div class="cart-totals">
+								<h3>Checkout Summary</h3>
+
+								<ul>
+									<li>Subtotal <span>$420.00</span></li>
+									<li>Shipping <span>$420.00</span></li>
+									<li>Coupon <span>$00.00</span></li>
+									<li>Total <span>$420.00</span></li>
+									<li><b>Payable Total</b> <span><b>$420.00</b></span></li>
+								</ul>
+							</div>
+							
+							<div class="faq-accordion">
+								<h3>Payment Method</h3>
+
+								<ul class="accordion">
+									<li class="accordion-item active">
+										<a class="accordion-title" href="javascript:void(0)">
+											Direct Bank Transfer
+										</a>
+	
+										<p class="accordion-content show">
+											Make your payment directly into our bank account. Please use your Order ID as the payment reference. Your order won’t be shipped until the funds have our account.
+										</p>
+									</li>
+									
+									<li class="accordion-item">
+										<a class="accordion-title" href="javascript:void(0)">
+											Cash on Delivery
+										</a>
+	
+										<p class="accordion-content">
+											Please Enviaryour cheque to Store Name, Store Street, Store Town, Store State / County, Store Postcode.
+										</p>
+									</li>
+									
+									<li class="accordion-item">
+										<a class="accordion-title" href="javascript:void(0)">
+											PayPal
+										</a>
+	
+										<p class="accordion-content">
+											Pay via PayPal; you can pay with your credit card if you don’t have a PayPal account.
+										</p>
+									</li>
+
+									<li class="accordion-item">
+										<div class="form-check">
+											<input type="checkbox" class="form-check-input" id="ship-differents-address">
+											<label class="form-check-label" for="ship-different-address">I’ve read and accept the <a href="terms-conditions.php">terms & conditions</a>*</label>
+										</div>
+									</li>
+
+									<li class="place-order">
+										<a href="#" class="default-btn two">
+											Place order
+											<i class="ri-arrow-right-circle-line"></i>
+										</a>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- End Checkout Area -->
+
+		<!-- Start Footer Area -->
+		<footer class="footer-area">
+			<div class="footer-bg pt-100 pb-70">
+				<div class="container">
+					<div class="row">
+						<div class="col-lg-3 col-md-6">
+							<div class="single-footer-widget">
+								<a href="index.php" class="logo">
+									<img src="assets/images/white-logo.png" alt="Image">
+								</a>
+	
+								<ul class="address">
+									<li>
+										<span>CALL:</span>
+										<a href="tel:(312)-895-9800">(312) 895-9800</a>
+										<a href="tel:(312)-895-9888">(312) 895-9888</a>
+									</li>
+									<li>
+										<span>MAIL:</span>
+										<a href="mailto:hello@faceat.com">hello@faceat.com</a>
+										<a href="mailto:info@faceat.com">info@faceat.com</a>
+									</li>
+									<li class="location">
+										<span>ADDRESS:</span>
+										121 King St, Melbourne VIC 3000, Australia.
+									</li>
+								</ul>
+							</div>
+						</div>
+	
+						<div class="col-lg-3 col-md-6">
+							<div class="single-footer-widget">
+								<h3>Company</h3>
+	
+								<ul class="import-link">
+									<li>
+										<a href="gallery.php">Gallery</a>
+									</li>
+									<li>
+										<a href="contacto.php">Contacto</a>
+									</li>
+									<li>
+										<a href="tratamientos.php">Tratamientos</a>
+									</li>
+									<li>
+										<a href="privacy-policy.php">Privacy Policy</a>
+									</li>
+									<li>
+										<a href="terms-conditions.php">Terms Conditions</a>
+									</li>
+									<li>
+										<a href="contacto.php">Site Map</a>
+									</li>
+								</ul>
+							</div>
+						</div>
+	
+						<div class="col-lg-3 col-md-6">
+							<div class="single-footer-widget">
+								<h3>Plastic Surgery</h3>
+	
+								<ul class="import-link">
+									<li>
+										<a href="#">Breasts Surgery</a>
+									</li>
+									<li>
+										<a href="#">Face Surgery</a>
+									</li>
+									<li>
+										<a href="#">Arm Lift</a>
+									</li>
+									<li>
+										<a href="#">Fat Reductio</a>
+									</li>
+									<li>
+										<a href="#">Body Surgery</a>
+									</li>
+									<li>
+										<a href="#">Brow Surgery</a>
+									</li>
+								</ul>
+							</div>
+						</div>
+	
+						<div class="col-lg-3 col-md-6">
+							<div class="single-footer-widget">
+								<h3>Newsletter</h3>
+								<p>Subscribe to our newsletter, you will get an update on our offer.</p>
+	
+								<form class="newsletter-form" data-toggle="validator">
+									<input type="email" class="form-control" placeholder="Tu Email" name="EMAIL" required="" autocomplete="off">
+		
+									<button class="default-btn" type="submit">
+										Send
+									</button>
+		
+									<div id="validator-newsletter" class="form-result"></div>
+								</form>	
+	
+								<ul class="social-icon">
+									<li>
+										<a href="../index.htm" target="_blank">
+											<i class="ri-linkedin-fill"></i>
+										</a>
+									</li>
+									<li>
+										<a href="../index-1.htm" target="_blank">
+											<i class="ri-facebook-fill"></i>
+										</a>
+									</li>
+									<li>
+										<a href="../index-2.htm" target="_blank">
+											<i class="ri-twitter-fill"></i>
+										</a>
+									</li>
+									<li>
+										<a href="../index-3.htm" target="_blank">
+											<i class="ri-youtube-fill"></i>
+										</a>
+									</li>
+									<li>
+										<a href="../index-4.htm" target="_blank">
+											<i class="ri-vimeo-fill"></i>
+										</a>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="shape shape-1">
+					<img src="assets/images/footer-shape-1.png" alt="Image">
+				</div>
+				<div class="shape shape-2">
+					<img src="assets/images/footer-shape-2.png" alt="Image">
+				</div>
+				<div class="shape shape-3">
+					<img src="assets/images/footer-shape-3.png" alt="Image">
+				</div>
+				<div class="shape shape-4">
+					<img src="assets/images/footer-shape-4.png" alt="Image">
+				</div>
+				<div class="shape shape-5">
+					<img src="assets/images/footer-shape-5.png" alt="Image">
+				</div>
+			</div>
+		</footer>
+		<!-- End Footer Area -->
+
+		<!-- Start Copy Right Area -->
+		<div class="copy-right-area">
+			<div class="copy-right-bg">
+				<div class="container">
+					<div class="copy-right-border">
+						<p>
+							Copyright <i class="ri-copyright-line"></i>2021 faceat. Designed By 
+							<a href="../user/croptheme.php" target="_blank">CropTheme</a>
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- End Copy Right Area -->
+		
+		<!-- Start Go Top Area -->
+		<div class="go-top">
+			<i class="ri-arrow-up-s-fill"></i>
+			<i class="ri-arrow-up-s-fill"></i>
+		</div>
+		<!-- End Go Top Area -->
+		
+
+        <!-- Jquery Min JS -->
+        <script src="assets/js/jquery.min.js"></script> 
+        <!-- Bootstrap Bundle Min JS -->
+        <script src="assets/js/bootstrap.bundle.min.js"></script>
+        <!-- Meanmenu Min JS -->
+		<script src="assets/js/meanmenu.min.js"></script>
+		<!-- Owl Carousel Min JS -->
+		<script src="assets/js/owl.carousel.min.js"></script>
+		<!-- Wow Min JS -->
+        <script src="assets/js/wow.min.js"></script>
+		<!-- Magnific Popup Min JS -->
+        <script src="assets/js/magnific-popup.min.js"></script>
+		<!-- Bootstrap Datepicker Min JS -->
+        <script src="assets/js/bootstrap-datepicker.min.js"></script>
+		<!-- Before After Min JS -->
+        <script src="assets/js/before-after.min.js"></script>
+		<!-- Appear Min JS -->
+        <script src="assets/js/appear.min.js"></script>
+		<!-- Odometer Min JS -->
+        <script src="assets/js/odometer.min.js"></script>
+		<!-- Mixitup Min JS -->
+        <script src="assets/js/mixitup.min.js"></script>
+		<!-- Form Validator Min JS -->
+		<script src="assets/js/form-validator.min.js"></script>
+		<!-- Contact JS -->
+		<script src="assets/js/contact-form-script.js"></script>
+		<!-- Ajaxchimp Min JS -->
+		<script src="assets/js/ajaxchimp.min.js"></script>
+        <!-- Custom JS -->
+		<script src="assets/js/custom.js"></script>
+    </body>
+</html>
