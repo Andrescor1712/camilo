@@ -6,11 +6,11 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<meta name="author" content="Gerardo Camacho" />
-	<meta name="description" content="El área de aprendizaje de MDN pretende proporcionar a los recién llegados a la web todo lo que deben saber para empezar a desarrollar páginas web y aplicaciones web."/>
-	<meta name="keywords" content="lipolisis,laser,plástico,cirujano"/>
+	<meta name="description" content="Cirujano plástico Bogotá Colombia con más de 10 años de trayectoria con amplia experiencia en Cirugía Plástica facial, corporal reconocido en Marcación abdominal hombres y mujeres , Mamoplastia , Mommy Makeover con en el manejo de tecnología Vaser®. Laser, Micro Aire® y J-Plasma" />
+	<meta name="keywords" content="lipolisis,laser,plástico,cirujano,bogotá,colombia," />
 	<meta name="copyright" content="Gerardo Camacho" />
-	<meta name="robots" content="index"/>
-	<meta name="robots" content="follow"/>
+	<meta name="robots" content="index" />
+	<meta name="robots" content="follow" />	
 
 	<!-- Bootstrap Min CSS -->
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -44,7 +44,7 @@
 </head>
 
 <body>
-	<!-- Start Preloader Area -->
+	<!-- Barra de carga -->
 	<div class="preloader">
 		<div class="lds-ripple">
 			<div class="preloader-container">
@@ -63,11 +63,11 @@
 			</div>
 		</div>
 	</div>
-	<!-- End Preloader Area -->
+	<!-- Final Barra de Carga -->
 
-	<!-- Start Header Area -->
+	<!-- Comiezo Header -->
 	<header class="header-area">
-		<!-- Start Top Header -->
+		<!-- Header Contacto -->
 		<div class="top-header">
 			<div class="container">
 				<div class="row align-items-center">
@@ -122,9 +122,9 @@
 				</div>
 			</div>
 		</div>
-		<!-- Start Top Header -->
+		<!-- Header Contacto -->
 
-		<!-- Start Navbar Area -->
+		<!-- Menu Nav -->
 		<div class="navbar-area">
 			<div class="mobile-responsive-nav">
 				<div class="container">
@@ -212,7 +212,7 @@
 														<a href="register.php" class="nav-link">Register</a>
 													</li>
 													<li class="nav-item">
-														<a href="appointment.php" class="nav-link">Appointment</a>
+														<a href="Agenda tu Cita.php" class="nav-link">Agenda tu Cita</a>
 													</li>
 													
 												</ul>
@@ -288,7 +288,7 @@
 							<div class="others-options">
 								<ul>
 									<li>
-										<a href="appointment.php" class="default-btn" data-bs-target="#agendar" data-bs-toggle="modal">
+										<a href="Agenda tu Cita.php" class="default-btn" data-bs-target="#agendar" data-bs-toggle="modal">
 											Agenda tu cita
 											<i class="ri-file-text-line"></i>
 										</a>
@@ -321,7 +321,7 @@
 							<div class="others-option justify-content-center d-flex align-items-center">
 								<ul>
 									<li>
-										<a href="appointment.php" class="default-btn" data-bs-target="#agendar" data-bs-toggle="modal">
+										<a href="Agenda tu Cita.php" class="default-btn" data-bs-target="#agendar" data-bs-toggle="modal">
 											Agendar tu cita
 											<i class="ri-file-text-line"></i>
 										</a>
@@ -339,11 +339,11 @@
 				</div>
 			</div>
 		</div>
-		<!-- End Navbar Area -->
+		<!-- Final Menu Nav -->
 	</header>
-	<!-- End Header Area -->
+	<!-- Final Header -->
 
-	<!-- Start Modal Formulario Cita -->
+	<!-- Modal Formulario Cita -->
 	<div class="modal fade" id="agendar" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
 		<div class="modal-dialog modal-dialog-centered">
 			<div class="modal-content">
@@ -423,6 +423,7 @@
 											</div>
 										</div>
 									</form>
+									<!-- Final Formulario Agendar Cita -->
 								</div>
 							</div>
 						</div>
@@ -431,16 +432,14 @@
 			</div>
 		</div>
 	</div>
-	<!-- End Modal Formulario Cita -->
+	<!-- Final Modal Formulario Cita -->
 
-
-
-	<!-- Start Sidebar Modal -->
+	<!-- Sidebar Info -->
 	<div class="sidebar-modal">
 		<div class="sidebar-modal-inner">
 			<div class="sidebar-header">
 				<div class="sidebar-logo">
-					<img src="assets/images/logo.png" alt="Logo">
+					<img src="assets/images/logo.png" alt="Logo Gerardo Camacho">
 				</div>
 
 				<span class="close-btn sidebar-modal-close-btn">
@@ -475,9 +474,9 @@
 			</div>
 		</div>
 	</div>
-	<!-- End Sidebar Modal -->
+	<!-- Final Sidebar Info -->
 
-	<!-- Start Hero Slider Area -->
+	<!-- Info Slider -->
 	<section class="hero-slider-area">
 		<div class="hero-slider owl-carousel owl-theme">
 			<div class="hero-slider-item bg-1">
@@ -486,11 +485,7 @@
 						<div class="col-lg-5">
 							<div class="hero-slider-content">
 								<h1 class="name-doctor">Dr.Gerardo <span class="last-name">Camacho</span> </h1>
-								<p><b>Cirujano plástico</b> Bogotá Colombia con <b>más de 10 años de trayectoria con amplia
-										experiencia</b> en Cirugía Plástica facial, corporal reconocido en Marcación abdominal
-									hombres y mujeres , Mamoplastia , Mommy Makeover con en el manejo de tecnología
-									Vaser®. Laser, Micro Aire® y J-Plasma</p>
-
+								<p><b>Cirujano plástico</b> Bogotá Colombia con <b>más de 10 años de trayectoria con amplia experiencia</b> en Cirugía Plástica facial, corporal reconocido en Marcación abdominal hombres y mujeres , Mamoplastia , Mommy Makeover con en el manejo de tecnología Vaser®. Laser, Micro Aire® y J-Plasma</p>
 								<div class="hero-slider-btn">
 									<a href="nosotros.php" class="default-btn">
 										Leer más
@@ -507,7 +502,7 @@
 
 						<div class="col-lg-7 p-0">
 							<div class="hero-slider-img">
-								<img src="assets/images/slider/slider-img.png" alt="Image">
+								<img src="assets/images/slider/slider-img.png" alt="Slider Gerardo">
 							</div>
 						</div>
 					</div>
@@ -515,16 +510,16 @@
 
 				<div class="hero-slider-shape">
 					<div class="shape shape-1">
-						<img src="assets/images/slider/shape/shape-1.png" alt="Image">
+						<img src="assets/images/slider/shape/circulo-medio-2.png" alt="Image">
 					</div>
 					<div class="shape shape-2">
 						<img src="assets/images/slider/shape/shape-2.png" alt="Image">
 					</div>
 					<div class="shape shape-3">
-						<img src="assets/images/slider/shape/shape-3.png" alt="Image">
+						<img src="assets/images/slider/shape/circulo-medio.png" alt="Image">
 					</div>
 					<div class="shape shape-4">
-						<img src="assets/images/slider/shape/shape-4.png" alt="Image">
+						<img src="assets/images/slider/shape/circulo-pequeno.png" alt="Image">
 					</div>
 				</div>
 			</div>
@@ -550,7 +545,7 @@
 
 						<div class="col-lg-7 p-0">
 							<div class="hero-slider-img">
-								<img src="assets/images/slider/slider-img-2.png" alt="Image">
+								<img src="assets/images/slider/slider-img-2.png" alt="Slider Gerardo 2">
 							</div>
 						</div>
 					</div>
@@ -558,49 +553,44 @@
 
 				<div class="hero-slider-shape">
 					<div class="shape shape-1">
-						<img src="assets/images/slider/shape/shape-1.png" alt="Image">
+						<img src="assets/images/slider/shape/circulo-medio-2.png" alt="Image">
 					</div>
 					<div class="shape shape-2">
 						<img src="assets/images/slider/shape/shape-2.png" alt="Image">
 					</div>
 					<div class="shape shape-3">
-						<img src="assets/images/slider/shape/shape-3.png" alt="Image">
+						<img src="assets/images/slider/shape/circulo-medio.png" alt="Image">
 					</div>
 					<div class="shape shape-4">
-						<img src="assets/images/slider/shape/shape-4.png" alt="Image">
+						<img src="assets/images/slider/shape/circulo-pequeno.png" alt="Image">
 					</div>
 				</div>
 			</div>
 		</div>
 	</section>
-	<!-- End Hero Slider Area -->
+	<!-- Final Info Slider -->
 
-	<!-- Start Doctor About Slider Area -->
+	<!-- Sección Doctor -->
 	<section class="doctor-about-area ptb-100">
 		<div class="container">
 			<div class="doctor-about-bg ptb-100">
 				<div class="row align-items-center">
 					<div class="col-lg-6">
 						<div class="doctor-about-content">
-							<h2>Dr. Gerardo Camacho</h2>
+							<h2 class="nombre-doctor">Dr. Gerardo Camacho</h2>
 							<span class="ceo">CIRUJANO PLÁSTICO BOGOTÁ</span>
-							<p>Dr. Gerardo Camacho Cirujano Plástico Miembro de la Sociedad Colombiana de Cirugía
-								plástica S.C.C.P. FILACP y AMERICAN SOCIETY OF PLASTIC SURGEONS.</p>
+							<p>Dr. Gerardo Camacho Cirujano Plástico Miembro de la Sociedad Colombiana de Cirugía plástica S.C.C.P. FILACP y AMERICAN SOCIETY OF PLASTIC SURGEONS.</p>
 							<p>Cirujano plástico Bogotá Colombia con más de 10 años de trayectoria con amplia
-								experiencia en Cirugía Plástica facial, corporal reconocido en Marcación abdominal
-								hombres y mujeres , Mamoplastia , Mommy Makeover con en el manejo de tecnología Vaser®.
-								Laser, Micro Aire® y J-Plasma</p>
-							<p>Además apasionado por su profesión y por el proceso artístico que imprime en cada
-								procedimiento junto a su equipo médico especializado .</p>
-
+								experiencia en Cirugía Plástica facial, corporal reconocido en Marcación abdominal hombres y mujeres , Mamoplastia , Mommy Makeover con en el manejo de tecnología Vaser®. Laser, Micro Aire® y J-Plasma</p>
+							<p>Además apasionado por su profesión y por el proceso artístico que imprime en cadaprocedimiento junto a su equipo médico especializado .</p>
 							<div class="doctor-about-btn py-3">
-								<a href="appointment.php" class="default-btn">
+								<a href="agendar-cita.php" class="default-btn">
 									Agendar Cita
 									<i class="ri-file-text-line"></i>
 								</a>
 
-								<div class="call-us">
-									<span>Contactanos:</span>
+								<div class="call-us py-3 ">
+									<span>Contáctanos:</span>
 									<a href="tel:(312)-895-9800">(312) 895 9800</a>
 								</div>
 							</div>
@@ -609,10 +599,10 @@
 
 					<div class="col-lg-6">
 						<div class="doctor-about-img">
-							<img src="assets/images/doctor-about/doctor-img.png" alt="Image">
+							<img src="assets/images/doctor-about/doctor-gerardo-camacho.png" alt="Doctor Gerardo Camacho">
 
 							<div class="doctor-img-bg">
-								<img src="assets/images/doctor-about/doctor-img-bg.png" alt="Image">
+								<img src="assets/images/doctor-about/circulo-fondo-azul.png" alt="Fondo Azul">
 							</div>
 						</div>
 					</div>
@@ -622,33 +612,32 @@
 					<img src="assets/images/doctor-about/shape-2.png" alt="Image">
 				</div>
 				<div class="shape shape-3">
-					<img src="assets/images/doctor-about/shape-3.png" alt="Image">
+					<img src="assets/images/doctor-about/circulo-medio.png" alt="Image">
 				</div>
 				<div class="shape shape-4">
-					<img src="assets/images/doctor-about/shape-4.png" alt="Image">
+					<img src="assets/images/doctor-about/circulo-pequeno.png" alt="Image">
 				</div>
 			</div>
 		</div>
 	</section>
-	<!-- End Doctor About Area -->
+	<!-- Final Sección Doctor -->
 
-	<!-- Start Services Area -->
+	<!-- Seccion Servicios -->
 	<section class="services-area pb-100">
 		<div class="container">
 			<div class="section-title">
-				<h2>Nuestros Servicios más Populares</h2>
-				<p>Somos expertos en</p>
+				<h2 class="titulos_seccion">Nuestros Servicios</h2>
+				<p class="subtitulos_seccion">Amplia experiencia en</p>
 			</div>
 
 			<div class="row">
 				<div class="col-lg-4 col-md-6">
 					<div class="single-services">
 						<div class="services-icon">
-							<img src="assets/images/services/services-icon-1.png" alt="Image">
+							<img src="assets/images/services/services-icon-1.png" alt="Cirugía Hombres">
 						</div>
-						<h3>Rinoplastia Femenina</h3>
-						<p>La Rinoplastia Femenina Bogotá o Cirugía de Nariz Mujeres tiene como objetivo principal
-							modificar la forma y tamaño de la nariz de manera integral.</p>
+						<h3 class="titulos_seccion-servicios">Cirugía estética<br>hombres</h3>
+						<p>La Rinoplastia Femenina Bogotá o Cirugía de Nariz Mujeres tiene como objetivo principal modificar la forma y tamaño de la nariz de manera integral.</p>
 
 						<a href="services-details.php" class="read-more">
 							Leer más
@@ -661,9 +650,10 @@
 						<div class="services-icon">
 							<img src="assets/images/services/services-icon-2.png" alt="Image">
 						</div>
-						<h3>Blefaroplestia</h3>
-						<p>lefaroplastia Bogotá, o más conocida como cirugía de párpados, consiste en corregir el exceso
-							de grasa, piel y músculos de los párpados superiores e inferiores.</p>
+						<h3 class="titulos_seccion-servicios">Cirugía estética<br>mujeres</h3>
+						<p>Está orientada a corregir determinadas alteraciones del aparato genital femenino.
+						os genitales femeninos desarrollan con el tiempo características que no son deseadas por estética o por salud
+						</p>
 
 						<a href="services-details.php" class="read-more">
 							Leer más
@@ -676,9 +666,8 @@
 						<div class="services-icon">
 							<img src="assets/images/services/services-icon-3.png" alt="Image">
 						</div>
-						<h3>Ritidoplastia</h3>
-						<p>Reposicionar los tejidos, corregir la flacidez y remover el exceso de piel de la cara
-							mejorando los ángulos faciales logrando rejuvenecer y embellecer el rostro</p>
+						<h3 class="titulos_seccion-servicios">Cirugía<br>reconstructiva</h3>
+						<p>Reconstruir la zona afectada usando, en muchas ocasiones, técnicas de microcirugía que permiten reparar nervios, arterias y venas de calibre muy pequeño.</p>
 
 						<a href="services-details.php" class="read-more">
 							Leer más
@@ -691,9 +680,9 @@
 						<div class="services-icon">
 							<img src="assets/images/services/services-icon-4.png" alt="Image">
 						</div>
-						<h3>Lipo papada</h3>
-						<p>Para comenzar una de las zonas del cuerpo que refleja mayor edad o sensible al envejecimiento
-							es el cuello restando juventud al otorgar un mayor volumen al rostro</p>
+						<h3 class="titulos_seccion-servicios">Cirugía<br>genital</h3>
+						<p>Está orientada a corregir determinadas alteraciones del aparato genital femenino.
+						Los genitales femeninos desarrollan con el tiempo características que no son deseadas por estética o por salud</p>
 
 						<a href="services-details.php" class="read-more">
 							Leer más
@@ -706,9 +695,8 @@
 						<div class="services-icon">
 							<img src="assets/images/services/services-icon-5.png" alt="Image">
 						</div>
-						<h3>Otoplastia</h3>
-						<p>Reducción el tamaño de las Orejas prominentes ,reposicionarlas y brindar una mejor apariencia
-							cuando existe diferencia en el tamaño de las orejas del paciente.</p>
+						<h3 class="titulos_seccion-servicios">Procedimientos<br>antiedad</h3>
+						<p>Reposicionar los tejidos, corregir la flacidez y remover el exceso de piel de la cara mejorando los ángulos faciales logrando rejuvenecer y embellecer el rostro</p>
 
 						<a href="services-details.php" class="read-more">
 							Leer más
@@ -721,9 +709,7 @@
 						<div class="services-icon">
 							<img src="assets/images/services/services-icon-6.png" alt="Image">
 						</div>
-						<h3>Remoción de verrugas</h3>
-						<p>lunares o verrugas pocos estéticos en cara o en el cuerpo ocasionando molestias y en algunos
-							casos el optar por una remoción de lunares queda en segundo plano.</p>
+						<h3 class="titulos_seccion-servicios">Son procedimoentos mínimamente invasivos con anestesia local, no son quirúrgicos o son cirugías muy pequeñas y permiten al paciente una reincorporación rápida su rutina diaria</p>
 
 						<a href="services-details.php" class="read-more">
 							Leer más
@@ -734,16 +720,18 @@
 				<div class="col-12">
 					<div class="check-procedures">
 						<a href="services.php" class="read-more">
-							Todos los servicios
+							<button class="btn btn-service">
+							TODOS LOS SERVICIOS
+							</button>
 						</a>
 					</div>
 				</div>
 			</div>
 		</div>
 	</section>
-	<!-- End Services Area -->
+	<!-- Final Seccion Servicios -->
 
-	<!-- Start Gallery Area -->
+	<!-- Sección Galería -->
 	<section class="gallery-area gallery-popup bg-color ptb-100">
 		<div class="container-fluid p-0">
 			<div class="section-title">
@@ -851,18 +839,18 @@
 		</div>
 
 		<div class="shape shape-1">
-			<img src="assets/images/gallery/shape/shape-1.png" alt="Image">
+			<img src="assets/images/gallery/shape/circulo-medio-2.png" alt="Image">
 		</div>
 		<div class="shape shape-2">
 			<img src="assets/images/gallery/shape/shape-2.png" alt="Image">
 		</div>
 		<div class="shape shape-3">
-			<img src="assets/images/gallery/shape/shape-3.png" alt="Image">
+			<img src="assets/images/gallery/shape/circulo-medio.png" alt="Image">
 		</div>
 	</section>
-	<!-- End Gallery Area -->
+	<!-- Final Sección Galería -->
 
-	<!-- Start Surgical Area -->
+	<!-- Sección Cirugía -->
 	<section class="surgical-area pt-100 pb-70">
 		<div class="container">
 			<div class="row align-items-center">
@@ -966,9 +954,9 @@
 			</div>
 		</div>
 	</section>
-	<!-- End Surgical Area -->
+	<!-- Final Sección Cirugía -->
 
-	<!-- End Reviews Patients Area -->
+	<!-- Sección Testimonios -->
 	<section class="reviews-patients-area bg-color ptb-100">
 		<div class="container">
 			<div class="section-title">
@@ -980,7 +968,7 @@
 			<div class="reviews-patients-slider owl-carousel owl-theme">
 				<div class="single-reviews-patients">
 					<div class="avatar">
-						<img src="assets/images/reviews-avatar/reviews-avatar-1.jpg" alt="Image">
+						<img src="assets/images/reviews-avatar/testimonio-angelica.png" alt="Foto Angelica Fernandez">
 						<i class="ri-double-quotes-l"></i>
 					</div>
 
@@ -992,7 +980,7 @@
 
 				<div class="single-reviews-patients">
 					<div class="avatar">
-						<img src="assets/images/reviews-avatar/reviews-avatar-2.jpg" alt="Image">
+						<img src="assets/images/reviews-avatar/testimonio-alexander.png" alt="Foto Alexander Tenjo">
 						<i class="ri-double-quotes-l"></i>
 					</div>
 
@@ -1006,7 +994,7 @@
 
 				<div class="single-reviews-patients">
 					<div class="avatar">
-						<img src="assets/images/reviews-avatar/reviews-avatar-3.jpg" alt="Image">
+						<img src="assets/images/reviews-avatar/testimonio-susana.png" alt="Foto Susana Bello">
 						<i class="ri-double-quotes-l"></i>
 					</div>
 
@@ -1021,16 +1009,16 @@
 		</div>
 
 		<div class="shape shape-1">
-			<img src="assets/images/reviews-avatar/shape-1.png" alt="Image">
+			<img src="assets/images/reviews-avatar/circulo-medio-2.png" alt="Image">
 		</div>
 		<div class="shape shape-2">
 			<img src="assets/images/reviews-avatar/shape-2.png" alt="Image">
 		</div>
 		<div class="shape shape-3">
-			<img src="assets/images/reviews-avatar/shape-3.png" alt="Image">
+			<img src="assets/images/reviews-avatar/circulo-medio.png" alt="Image">
 		</div>
 	</section>
-	<!-- End Reviews Patients Area -->
+	<!-- Final Sección Testimonios -->
 
 	<!-- Start Appointment Area -->
 	<section class="appointment-area ptb-100">
@@ -1118,9 +1106,9 @@
 			</div>
 		</div>
 	</section>
-	<!-- End Appointment Area -->
+	<!-- Final Formulario Agendar Cita -->
 
-	<!-- Start blog Area -->
+	<!-- Sección Blog -->
 	<section class="our-blog-area pb-70">
 		<div class="container">
 			<div class="section-title">
@@ -1227,9 +1215,9 @@
 			</div>
 		</div>
 	</section>
-	<!-- End Blog Area -->
+	<!-- Final Sección Blog -->
 
-	<!-- Start Partner Area -->
+	<!-- Sección Clientes -->
 	<div class="partner-area pb-100">
 		<div class="container">
 			<div class="partner-slider owl-carousel owl-theme">
@@ -1271,9 +1259,9 @@
 			</div>
 		</div>
 	</div>
-	<!-- End Partner Area -->
+	<!-- Final Sección Clientes -->
 
-	<!-- Start Footer Area -->
+	<!-- Footer -->
 	<footer class="footer-area">
 		<div class="footer-bg pt-100 pb-70">
 			<div class="container">
@@ -1362,7 +1350,7 @@
 								<input type="email" class="form-control" placeholder="Tu Email" name="EMAIL" required="" autocomplete="off">
 
 								<button class="default-btn" type="submit">
-									Send
+									Enviar
 								</button>
 
 								<div id="validator-newsletter" class="form-result"></div>
@@ -1396,25 +1384,25 @@
 			</div>
 
 			<div class="shape shape-1">
-				<img src="assets/images/footer-shape-1.png" alt="Image">
+				<img src="assets/images/circulo-medio-2.png" alt="Image">
 			</div>
 			<div class="shape shape-2">
 				<img src="assets/images/footer-shape-2.png" alt="Image">
 			</div>
 			<div class="shape shape-3">
-				<img src="assets/images/footer-shape-3.png" alt="Image">
+				<img src="assets/images/circulo-medio.png" alt="Image">
 			</div>
 			<div class="shape shape-4">
-				<img src="assets/images/footer-shape-4.png" alt="Image">
+				<img src="assets/images/circulo-pequeno.png" alt="Image">
 			</div>
 			<div class="shape shape-5">
 				<img src="assets/images/footer-shape-5.png" alt="Image">
 			</div>
 		</div>
 	</footer>
-	<!-- End Footer Area -->
+	<!-- Final Footer -->
 
-	<!-- Start Copy Right Area -->
+	<!-- Autor -->
 	<div class="copy-right-area">
 		<div class="copy-right-bg">
 			<div class="container">
@@ -1427,14 +1415,14 @@
 			</div>
 		</div>
 	</div>
-	<!-- End Copy Right Area -->
+	<!-- Final Autor -->
 
-	<!-- Start Go Top Area -->
+	<!-- Scroll Top -->
 	<div class="go-top">
 		<i class="ri-arrow-up-s-fill"></i>
 		<i class="ri-arrow-up-s-fill"></i>
 	</div>
-	<!-- End Go Top Area -->
+	<!-- Final Scroll Top -->
 
 
 	<!-- Jquery Min JS -->

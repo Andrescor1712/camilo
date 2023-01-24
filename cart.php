@@ -37,7 +37,7 @@
     </head>
 
     <body>
-		<!-- Start Preloader Area -->
+		<!-- Barra de carga -->
 		<div class="preloader">
 			<div class="lds-ripple">
 				<div class="preloader-container">
@@ -56,11 +56,11 @@
 				</div>
 			</div>
 		</div>
-		<!-- End Preloader Area -->
+		<!-- Final Barra de Carga -->
 		
-		<!-- Start Header Area -->
+		<!-- Comiezo Header -->
 		<header class="header-area">
-			<!-- Start Top Header -->
+			<!-- Header Contacto -->
 			<div class="top-header">
 				<div class="container">
 					<div class="row align-items-center">
@@ -130,9 +130,9 @@
 					</div>
 				</div>
 			</div>
-			<!-- Start Top Header -->
+			<!-- Header Contacto -->
 			
-			<!-- Start Navbar Area -->
+			<!-- Menu Nav -->
 			<div class="navbar-area">
                 <div class="mobile-responsive-nav">
                     <div class="container">
@@ -237,7 +237,7 @@
 														<a href="register.php" class="nav-link">Register</a>
 													</li>
 													<li class="nav-item">
-														<a href="appointment.php" class="nav-link">Appointment</a>
+														<a href="Agenda tu Cita.php" class="nav-link">Agenda tu Cita</a>
 													</li>
 													
 												</ul>
@@ -324,8 +324,8 @@
                                 <div class="others-options">
 									<ul>
 										<li>
-											<a href="appointment.php" class="default-btn">
-												Appointment
+											<a href="Agenda tu Cita.php" class="default-btn">
+												Agenda tu Cita
 												<i class="ri-file-text-line"></i>
 											</a>
 										</li>
@@ -357,8 +357,8 @@
 								<div class="others-option justify-content-center d-flex align-items-center">
 									<ul>
 										<li>
-											<a href="appointment.php" class="default-btn">
-												Appointment
+											<a href="Agenda tu Cita.php" class="default-btn">
+												Agenda tu Cita
 												<i class="ri-file-text-line"></i>
 											</a>
 										</li>
@@ -375,11 +375,11 @@
 					</div>
 				</div>
             </div>
-			<!-- End Navbar Area -->
+			<!-- Final Menu Nav -->
 		</header>
-		<!-- End Header Area -->
+		<!-- Final Header -->
 
-		<!-- Start Sidebar Modal -->
+		<!-- Sidebar Info -->
         <div class="sidebar-modal">
             <div class="sidebar-modal-inner">
 				<div class="sidebar-header">
@@ -419,7 +419,7 @@
 				</div>
             </div>
         </div>
-		<!-- End Sidebar Modal -->
+		<!-- Final Sidebar Info -->
 
 		<!-- Start Page Title Area -->
 		<div class="page-title-area">
@@ -440,7 +440,7 @@
 			</div>
 
 			<div class="shape shape-1">
-				<img src="assets/images/page-title-shape-1.png" alt="Image">
+				<img src="assets/images/page-title-circulo-medio-2.png" alt="Image">
 			</div>
 			<div class="shape shape-2">
 				<img src="assets/images/page-title-shape-2.png" alt="Image">
@@ -710,7 +710,7 @@
 		</section>
 		<!-- End Cart Area -->
 
-		<!-- Start Footer Area -->
+		<!-- Footer -->
 		<footer class="footer-area">
 			<div class="footer-bg pt-100 pb-70">
 				<div class="container">
@@ -842,25 +842,25 @@
 				</div>
 
 				<div class="shape shape-1">
-					<img src="assets/images/footer-shape-1.png" alt="Image">
+					<img src="assets/images/circulo-medio-2.png" alt="Image">
 				</div>
 				<div class="shape shape-2">
 					<img src="assets/images/footer-shape-2.png" alt="Image">
 				</div>
 				<div class="shape shape-3">
-					<img src="assets/images/footer-shape-3.png" alt="Image">
+					<img src="assets/images/circulo-medio.png" alt="Image">
 				</div>
 				<div class="shape shape-4">
-					<img src="assets/images/footer-shape-4.png" alt="Image">
+					<img src="assets/images/circulo-pequeno.png" alt="Image">
 				</div>
 				<div class="shape shape-5">
 					<img src="assets/images/footer-shape-5.png" alt="Image">
 				</div>
 			</div>
 		</footer>
-		<!-- End Footer Area -->
+		<!-- Final Footer -->
 
-		<!-- Start Copy Right Area -->
+		<!-- Autor -->
 		<div class="copy-right-area">
 			<div class="copy-right-bg">
 				<div class="container">
@@ -873,14 +873,14 @@
 				</div>
 			</div>
 		</div>
-		<!-- End Copy Right Area -->
+		<!-- Final Autor -->
 		
-		<!-- Start Go Top Area -->
+		<!-- Scroll Top -->
 		<div class="go-top">
 			<i class="ri-arrow-up-s-fill"></i>
 			<i class="ri-arrow-up-s-fill"></i>
 		</div>
-		<!-- End Go Top Area -->
+		<!-- Final Scroll Top -->
 		
 
         <!-- Jquery Min JS -->

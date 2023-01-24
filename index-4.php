@@ -37,7 +37,7 @@
     </head>
 
     <body>
-		<!-- Start Preloader Area -->
+		<!-- Barra de carga -->
 		<div class="preloader">
 			<div class="lds-ripple">
 				<div class="preloader-container">
@@ -56,11 +56,11 @@
 				</div>
 			</div>
 		</div>
-		<!-- End Preloader Area -->
+		<!-- Final Barra de Carga -->
 		
-		<!-- Start Header Area -->
+		<!-- Comiezo Header -->
 		<header class="header-area">
-			<!-- Start Top Header -->
+			<!-- Header Contacto -->
 			<div class="top-header top-header-style-two">
 				<div class="container">
 					<div class="top-header-border">
@@ -130,9 +130,9 @@
 					</div>
 				</div>
 			</div>
-			<!-- Start Top Header -->
+			<!-- Header Contacto -->
 			
-			<!-- Start Navbar Area -->
+			<!-- Menu Nav -->
 			<div class="navbar-area navbar-area-style-two">
                 <div class="mobile-responsive-nav">
                     <div class="container">
@@ -237,7 +237,7 @@
 														<a href="register.php" class="nav-link">Register</a>
 													</li>
 													<li class="nav-item">
-														<a href="appointment.php" class="nav-link">Appointment</a>
+														<a href="agendar-cita.php" class="nav-link">Agenda tu Cita</a>
 													</li>
 													
 												</ul>
@@ -324,8 +324,8 @@
                                 <div class="others-options">
 									<ul>
 										<li>
-											<a href="appointment.php" class="default-btn">
-												Appointment
+											<a href="agendar-cita.php" class="default-btn">
+												Agenda tu Cita
 												<i class="ri-file-text-line"></i>
 											</a>
 										</li>
@@ -351,8 +351,8 @@
 								<div class="others-option justify-content-center d-flex align-items-center">
 									<ul>
 										<li>
-											<a href="appointment.php" class="default-btn">
-												Appointment
+											<a href="agendar-cita.php" class="default-btn">
+												Agenda tu Cita
 												<i class="ri-file-text-line"></i>
 											</a>
 										</li>
@@ -363,9 +363,9 @@
 					</div>
 				</div>
             </div>
-			<!-- End Navbar Area -->
+			<!-- Final Menu Nav -->
 		</header>
-		<!-- End Header Area -->
+		<!-- Final Header -->
 
 		<!-- Banner Area -->
 		<section class="banner-area">
@@ -435,13 +435,13 @@
 
 			<div class="banner-shape">
 				<div class="shape shape-1">
-					<img src="assets/images/banner/shape/shape-1.png" alt="Image">
+					<img src="assets/images/banner/shape/circulo-medio-2.png" alt="Image">
 				</div>
 			</div>
 		</section>
 		<!-- End Banner Area -->
 
-		<!-- Start Partner Area -->
+		<!-- Sección Clientes -->
 		<div class="partner-area ptb-100">
 			<div class="container">
 				<div class="partner-slider owl-carousel owl-theme">
@@ -483,7 +483,7 @@
 				</div>
 			</div>
 		</div>
-		<!-- End Partner Area -->
+		<!-- Final Sección Clientes -->
 
 		<!-- End Feature Area -->
 		<section class="feature-area pb-70">
@@ -549,8 +549,8 @@
 								</div>
 	
 								<div class="doctor-about-btn">
-									<a href="appointment.php" class="default-btn">
-										Appointment
+									<a href="agendar-cita.php" class="default-btn">
+										Agenda tu Cita
 										<i class="ri-file-text-line"></i>
 									</a>
 	
@@ -574,9 +574,9 @@
 				<img src="assets/images/doctor-about/shape-5.png" alt="Image">
 			</div>
 		</section>
-		<!-- End Doctor About Area -->
+		<!-- Final Sección Doctor -->
 
-		<!-- Start Services Area -->
+		<!-- Seccion Servicios -->
 		<section class="services-area services-area-style-two ptb-100">
 			<div class="container">
 				<div class="section-title">
@@ -679,7 +679,7 @@
 				</div>
 			</div>
 		</section>
-		<!-- End Services Area -->
+		<!-- Final Seccion Servicios -->
 		
 		<!-- Start Before after Area -->
 		<div class="before-after-area bg-color ptb-100">
@@ -712,7 +712,7 @@
 			</div>
 
 			<div class="shape shape-1">
-				<img src="assets/images/before-after/shape-1.png" alt="Image">
+				<img src="assets/images/before-after/circulo-medio-2.png" alt="Image">
 			</div>
 			<div class="shape shape-2">
 				<img src="assets/images/before-after/shape-2.png" alt="Image">
@@ -720,7 +720,7 @@
 		</div>
 		<!-- End Before after Area -->
 
-		<!-- Start Surgical Area -->
+		<!-- Sección Cirugía -->
 		<section class="surgical-area surgical-area-style-two surgical-area-style-three pt-100 pb-70">
 			<div class="container">
 				<div class="row align-items-center">
@@ -800,9 +800,9 @@
 				</div>
 			</div>
 		</section>
-		<!-- End Surgical Area -->
+		<!-- Final Sección Cirugía -->
 
-		<!-- End Reviews Patients Area -->
+		<!-- Sección Testimonios -->
 		<section class="reviews-patients-area reviews-patients-area-style-two bg-color ptb-100">
 			<div class="container">
 				<div class="section-title">
@@ -813,7 +813,7 @@
 				<div class="reviews-patients-slider-style-two owl-carousel owl-theme">
 					<div class="single-reviews-patients">
 						<div class="avatar">
-							<img src="assets/images/reviews-avatar/reviews-avatar-1.jpg" alt="Image">
+							<img src="assets/images/reviews-avatar/testimonio-angelica.png" alt="Image">
 							<i class="ri-double-quotes-l"></i>
 						</div>
 						
@@ -825,7 +825,7 @@
 
 					<div class="single-reviews-patients">
 						<div class="avatar">
-							<img src="assets/images/reviews-avatar/reviews-avatar-2.jpg" alt="Image">
+							<img src="assets/images/reviews-avatar/testimonio-alexander.png" alt="Image">
 							<i class="ri-double-quotes-l"></i>
 						</div>
 						
@@ -837,7 +837,7 @@
 
 					<div class="single-reviews-patients">
 						<div class="avatar">
-							<img src="assets/images/reviews-avatar/reviews-avatar-3.jpg" alt="Image">
+							<img src="assets/images/reviews-avatar/testimonio-susana.png" alt="Image">
 							<i class="ri-double-quotes-l"></i>
 						</div>
 						
@@ -849,15 +849,15 @@
 				</div>
 			</div>
 			<div class="shape shape-1">
-				<img src="assets/images/reviews-avatar/shape-1.png" alt="Image">
+				<img src="assets/images/reviews-avatar/circulo-medio-2.png" alt="Image">
 			</div>
 			<div class="shape shape-4">
-				<img src="assets/images/reviews-avatar/shape-4.png" alt="Image">
+				<img src="assets/images/reviews-avatar/circulo-pequeno.png" alt="Image">
 			</div>
 		</section>
-		<!-- End Reviews Patients Area -->
+		<!-- Sección Testimonios -->
 
-		<!-- Start Appointment Area -->
+		<!-- Formulario Agendar Cita -->
 		<section class="appointment-area appointment-area-style-two ptb-100">
 			<div class="container">
 				<div class="bg-color appointment-bg-color pb-100">
@@ -866,7 +866,7 @@
 					</div>
 
 					<div class="appointment-action ptb-100">
-						<h2>Book Appointment</h2>
+						<h2>Book Agenda tu Cita</h2>
 
 						<form>
 							<div class="row">
@@ -926,7 +926,7 @@
 
 								<div class="col-12">
 									<button type="submit" class="default-btn">
-										Book Appointment
+										Book Agenda tu Cita
 										<i class="ri-file-text-line"></i>
 									</button>
 								</div>
@@ -935,17 +935,17 @@
 					</div>
 
 					<div class="shape shape-3">
-						<img src="assets/images/appointment-shape-3.png" alt="Image">
+						<img src="assets/images/appointment-circulo-medio.png" alt="Image">
 					</div>
 					<div class="shape shape-4">
-						<img src="assets/images/appointment-shape-4.png" alt="Image">
+						<img src="assets/images/appointment-circulo-pequeno.png" alt="Image">
 					</div>
 				</div>
 			</div>
 		</section>
-		<!-- End Appointment Area -->
+		<!-- End Agenda tu Cita Area -->
 
-		<!-- Start blog Area -->
+		<!-- Sección Blog -->
 		<section class="our-blog-area pb-70">
 			<div class="container">
 				<div class="section-title">
@@ -1049,9 +1049,9 @@
 				</div>
 			</div>
 		</section>
-		<!-- End Blog Area -->
+		<!-- Final Sección Blog -->
 
-		<!-- Start Footer Area -->
+		<!-- Footer -->
 		<footer class="footer-area">
 			<div class="footer-bg pt-100 pb-70">
 				<div class="container">
@@ -1183,25 +1183,25 @@
 				</div>
 
 				<div class="shape shape-1">
-					<img src="assets/images/footer-shape-1.png" alt="Image">
+					<img src="assets/images/circulo-medio-2.png" alt="Image">
 				</div>
 				<div class="shape shape-2">
 					<img src="assets/images/footer-shape-2.png" alt="Image">
 				</div>
 				<div class="shape shape-3">
-					<img src="assets/images/footer-shape-3.png" alt="Image">
+					<img src="assets/images/circulo-medio.png" alt="Image">
 				</div>
 				<div class="shape shape-4">
-					<img src="assets/images/footer-shape-4.png" alt="Image">
+					<img src="assets/images/circulo-pequeno.png" alt="Image">
 				</div>
 				<div class="shape shape-5">
 					<img src="assets/images/footer-shape-5.png" alt="Image">
 				</div>
 			</div>
 		</footer>
-		<!-- End Footer Area -->
+		<!-- Final Footer -->
 
-		<!-- Start Copy Right Area -->
+		<!-- Autor -->
 		<div class="copy-right-area">
 			<div class="copy-right-bg">
 				<div class="container">
@@ -1214,14 +1214,14 @@
 				</div>
 			</div>
 		</div>
-		<!-- End Copy Right Area -->
+		<!-- Final Autor -->
 		
-		<!-- Start Go Top Area -->
+		<!-- Scroll Top -->
 		<div class="go-top">
 			<i class="ri-arrow-up-s-fill"></i>
 			<i class="ri-arrow-up-s-fill"></i>
 		</div>
-		<!-- End Go Top Area -->
+		<!-- Final Scroll Top -->
 		
 
         <!-- Jquery Min JS -->

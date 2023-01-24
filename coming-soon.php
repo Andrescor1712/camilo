@@ -37,7 +37,7 @@
     </head>
 
     <body>
-		<!-- Start Preloader Area -->
+		<!-- Barra de carga -->
 		<div class="preloader">
 			<div class="lds-ripple">
 				<div class="preloader-container">
@@ -56,7 +56,7 @@
 				</div>
 			</div>
 		</div>
-		<!-- End Preloader Area -->
+		<!-- Final Barra de Carga -->
 		
 		<!-- Start Coming Soon Area -->
         <div class="coming-soon-area">
@@ -87,12 +87,12 @@
         </div>
         <!-- End Coming Soon Area -->
 		
-		<!-- Start Go Top Area -->
+		<!-- Scroll Top -->
 		<div class="go-top">
 			<i class="ri-arrow-up-s-fill"></i>
 			<i class="ri-arrow-up-s-fill"></i>
 		</div>
-		<!-- End Go Top Area -->
+		<!-- Final Scroll Top -->
 		
 
         <!-- Jquery Min JS -->

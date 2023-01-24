@@ -253,6 +253,17 @@ ESTILOS BOTONES*/
   font-family: "Poppins", sans-serif;
 }
 
+.btn-service{
+  background-color: var(--azul-claro);
+  color: var(--blanco);
+}
+
+.btn-service:hover{
+  transition: var(--transition);
+  color: var(--blanco);
+  background-color: var(--azul-oscuro);
+}
+
 .default-btn i {
   position: relative;
   top: 3px;
@@ -260,7 +271,7 @@ ESTILOS BOTONES*/
 }
 
 .default-btn:hover {
-  background-color: #423633;
+  background-color: var(--azul-oscuro);
   color: var(--blanco);
 }
 
@@ -280,11 +291,31 @@ LEER MÁS BOTÓN*/
 
 /*
 SECCIÓN DE TITULOS*/
+.nombre-doctor {
+  color: var(--azul-oscuro) !important;
+}
 .section-title {
   max-width: 750px;
   margin: -6px auto 50px;
   text-align: center;
   position: relative;
+}
+
+.titulos_seccion {
+  color: var(--azul-oscuro);
+  font-weight: 700 !important;
+  text-transform: uppercase;
+}
+
+.subtitulos_seccion {
+  color: var(--azul-claro);
+  font-size: 20px !important;
+  font-weight: 500 !important;
+  text-transform: uppercase;
+}
+
+.titulos_seccion-servicios{
+  color: var(--azul-oscuro) !important;
 }
 
 .section-title span {
@@ -2478,12 +2509,19 @@ NOSOTROS
 }
 
 .doctor-about-area.doctor-about-area-style-two .doctor-about-img {
-  background-image: url(../images/doctor-about/doctor-img-2.jpg);
+  background-image: url(../images/doctor-about/doctor-gerardo-camacho.png);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
   height: 100%;
   right: 0;
+}
+
+.doctor-about-img:hover {
+  transition: var(--transition);
+  -webkit-transform: scale(0.9);
+  -ms-transform: scale(0.9);
+  transform: scale(0.9);
 }
 
 .doctor-about-area.doctor-about-area-style-two .shape {

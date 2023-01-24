@@ -205,7 +205,7 @@
 														<a href="register.php" class="nav-link">Register</a>
 													</li>
 													<li class="nav-item">
-														<a href="appointment.php" class="nav-link">Appointment</a>
+														<a href="agendar-cita.php" class="nav-link">Appointment</a>
 													</li>
 													
 												</ul>
@@ -281,7 +281,7 @@
                                 <div class="others-options">
 									<ul>
 										<li>
-											<a href="appointment.php" class="default-btn">
+											<a href="" class="default-btn">
 												Agenda tu cita
 												<i class="ri-file-text-line"></i>
 											</a>
@@ -314,9 +314,8 @@
 								<div class="others-option justify-content-center d-flex align-items-center">
 									<ul>
 										<li>
-											<a href="appointment.php" class="default-btn">
-												Appointment
-												<i class="ri-file-text-line"></i>
+											<a href="agendar-cita.php" class="default-btn">
+												Agendar Cita												<i class="ri-file-text-line"></i>
 											</a>
 										</li>
 
@@ -468,8 +467,7 @@
 
 								<div class="col-12">
 									<button type="submit" class="default-btn">
-										Book Appointment
-										<i class="ri-file-text-line"></i>
+										Book Agendar Cita										<i class="ri-file-text-line"></i>
 									</button>
 								</div>
 							</div>

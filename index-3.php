@@ -37,7 +37,7 @@
     </head>
 
     <body>
-		<!-- Start Preloader Area -->
+		<!-- Barra de carga -->
 		<div class="preloader">
 			<div class="lds-ripple">
 				<div class="preloader-container">
@@ -56,11 +56,11 @@
 				</div>
 			</div>
 		</div>
-		<!-- End Preloader Area -->
+		<!-- Final Barra de Carga -->
 		
-		<!-- Start Header Area -->
+		<!-- Comiezo Header -->
 		<header class="header-area header-area-style-three">
-			<!-- Start Top Header -->
+			<!-- Header Contacto -->
 			<div class="top-header top-header-style-three">
 				<div class="container">
 					<div class="row align-items-center">
@@ -130,9 +130,9 @@
 					</div>
 				</div>
 			</div>
-			<!-- Start Top Header -->
+			<!-- Header Contacto -->
 			
-			<!-- Start Navbar Area -->
+			<!-- Menu Nav -->
 			<div class="navbar-area navbar-area-style-three">
                 <div class="mobile-responsive-nav">
                     <div class="container">
@@ -231,7 +231,7 @@
 														<a href="register.php" class="nav-link">Register</a>
 													</li>
 													<li class="nav-item">
-														<a href="appointment.php" class="nav-link">Appointment</a>
+														<a href="Agenda tu Cita.php" class="nav-link">Agenda tu Cita</a>
 													</li>
 													
 												</ul>
@@ -342,8 +342,8 @@
 								<div class="others-option justify-content-center d-flex align-items-center">
 									<ul>
 										<li>
-											<a href="appointment.php" class="default-btn">
-												Appointment
+											<a href="Agenda tu Cita.php" class="default-btn">
+												Agenda tu Cita
 												<i class="ri-file-text-line"></i>
 											</a>
 										</li>
@@ -354,11 +354,11 @@
 					</div>
 				</div>
             </div>
-			<!-- End Navbar Area -->
+			<!-- Final Menu Nav -->
 		</header>
-		<!-- End Header Area -->
+		<!-- Final Header -->
 
-		<!-- Start Hero Slider Area -->
+		<!-- Info Slider -->
 		<section class="hero-slider-area hero-slider-area-style-three">
 			<div class="hero-slider-style-two owl-carousel owl-theme">
 				<div class="hero-slider-item bg-1">
@@ -375,8 +375,8 @@
 											Leer más
 											<i class="ri-arrow-right-circle-line"></i>
 										</a>
-										<a href="appointment.php" class="default-btn active">
-											Appointment
+										<a href="Agenda tu Cita.php" class="default-btn active">
+											Agenda tu Cita
 											<i class="ri-file-text-line"></i>
 										</a>
 									</div>
@@ -400,8 +400,8 @@
 											Leer más
 											<i class="ri-arrow-right-circle-line"></i>
 										</a>
-										<a href="appointment.php" class="default-btn active">
-											Appointment
+										<a href="Agenda tu Cita.php" class="default-btn active">
+											Agenda tu Cita
 											<i class="ri-file-text-line"></i>
 										</a>
 									</div>
@@ -412,7 +412,7 @@
 				</div>
 			</div>
 		</section>
-		<!-- End Hero Slider Area -->
+		<!-- Final Info Slider -->
 
 		<!-- End Feature Area -->
 		<section class="feature-area pt-100 pb-70">
@@ -461,7 +461,7 @@
 		</section>
 		<!-- End Feature Area -->
 
-		<!-- Start Doctor About Slider Area -->
+		<!-- Sección Doctor -->
 		<section class="doctor-about-area doctor-about-area-style-three bg-color pt-100">
 			<div class="container">
 				<div class="row align-items-center">
@@ -514,9 +514,9 @@
 				<img src="assets/images/doctor-about/shape-6.png" alt="Image">
 			</div>
 		</section>
-		<!-- End Doctor About Area -->
+		<!-- Final Sección Doctor -->
 
-		<!-- Start Services Area -->
+		<!-- Seccion Servicios -->
 		<section class="services-area services-area-style-three ptb-100">
 			<div class="container">
 				<div class="section-title">
@@ -619,9 +619,9 @@
 				</div>
 			</div>
 		</section>
-		<!-- End Services Area -->
+		<!-- Final Seccion Servicios -->
 		
-		<!-- Start Surgical Area -->
+		<!-- Sección Cirugía -->
 		<section class="surgical-area surgical-area-style-three pb-70">
 			<div class="container">
 				<div class="row">
@@ -692,7 +692,7 @@
 				</div>
 			</div>
 		</section>
-		<!-- End Surgical Area -->
+		<!-- Final Sección Cirugía -->
 
 		<!-- Start Team Area -->
 		<section class="team-area pb-100">
@@ -887,7 +887,7 @@
 			</div>
 
 			<div class="shape shape-1">
-				<img src="assets/images/before-after/shape-1.png" alt="Image">
+				<img src="assets/images/before-after/circulo-medio-2.png" alt="Image">
 			</div>
 			<div class="shape shape-2">
 				<img src="assets/images/before-after/shape-2.png" alt="Image">
@@ -906,7 +906,7 @@
 				<div class="reviews-patients-slider-style-two owl-carousel owl-theme">
 					<div class="single-reviews-patients">
 						<div class="avatar">
-							<img src="assets/images/reviews-avatar/reviews-avatar-1.jpg" alt="Image">
+							<img src="assets/images/reviews-avatar/testimonio-angelica.png" alt="Image">
 							<i class="ri-double-quotes-l"></i>
 						</div>
 						
@@ -918,7 +918,7 @@
 
 					<div class="single-reviews-patients">
 						<div class="avatar">
-							<img src="assets/images/reviews-avatar/reviews-avatar-2.jpg" alt="Image">
+							<img src="assets/images/reviews-avatar/testimonio-alexander.png" alt="Image">
 							<i class="ri-double-quotes-l"></i>
 						</div>
 						
@@ -930,7 +930,7 @@
 
 					<div class="single-reviews-patients">
 						<div class="avatar">
-							<img src="assets/images/reviews-avatar/reviews-avatar-3.jpg" alt="Image">
+							<img src="assets/images/reviews-avatar/testimonio-susana.png" alt="Image">
 							<i class="ri-double-quotes-l"></i>
 						</div>
 						
@@ -942,15 +942,15 @@
 				</div>
 			</div>
 		</section>
-		<!-- End Reviews Patients Area -->
+		<!-- Sección Testimonios -->
 
-		<!-- Start Appointment Area -->
-		<section class="appointment-area ptb-100">
+		<!-- Formulario Agendar Cita -->
+		<section class="Agenda tu Cita-area ptb-100">
 			<div class="container">
 				<div class="bg-color pb-100">
 					<div class="row">
-						<div class="appointment-action ptb-100">
-							<h2>Book Appointment</h2>
+						<div class="Agenda tu Cita-action ptb-100">
+							<h2>Book Agenda tu Cita</h2>
 	
 							<form>
 								<div class="row">
@@ -1010,7 +1010,7 @@
 	
 									<div class="col-12">
 										<button type="submit" class="default-btn">
-											Book Appointment
+											Book Agenda tu Cita
 											<i class="ri-file-text-line"></i>
 										</button>
 									</div>
@@ -1020,17 +1020,17 @@
 					</div>
 
 					<div class="shape shape-1">
-						<img src="assets/images/appointment-shape-1.png" alt="Image">
+						<img src="assets/images/Agenda tu Cita-shape-2.png" alt="Image">
 					</div>
 					<div class="shape shape-2">
-						<img src="assets/images/appointment-shape-2.png" alt="Image">
+						<img src="assets/images/Agenda tu Cita-shape-2.png" alt="Image">
 					</div>
 				</div>
 			</div>
 		</section>
-		<!-- End Appointment Area -->
+		<!-- End Agenda tu Cita Area -->
 
-		<!-- Start blog Area -->
+		<!-- Sección Blog -->
 		<section class="our-blog-area pb-70">
 			<div class="container">
 				<div class="section-title">
@@ -1134,9 +1134,9 @@
 				</div>
 			</div>
 		</section>
-		<!-- End Blog Area -->
+		<!-- Final Sección Blog -->
 
-		<!-- Start Partner Area -->
+		<!-- Sección Clientes -->
 		<div class="partner-area partner-area-style-three">
 			<div class="partner-bg-top">
 				<div class="container">
@@ -1182,9 +1182,9 @@
 				</div>
 			</div>
 		</div>
-		<!-- End Partner Area -->
+		<!-- Final Sección Clientes -->
 
-		<!-- Start Footer Area -->
+		<!-- Footer -->
 		<footer class="footer-area">
 			<div class="footer-bg pt-100 pb-70">
 				<div class="container">
@@ -1316,25 +1316,25 @@
 				</div>
 
 				<div class="shape shape-1">
-					<img src="assets/images/footer-shape-1.png" alt="Image">
+					<img src="assets/images/circulo-medio-2.png" alt="Image">
 				</div>
 				<div class="shape shape-2">
 					<img src="assets/images/footer-shape-2.png" alt="Image">
 				</div>
 				<div class="shape shape-3">
-					<img src="assets/images/footer-shape-3.png" alt="Image">
+					<img src="assets/images/circulo-medio.png" alt="Image">
 				</div>
 				<div class="shape shape-4">
-					<img src="assets/images/footer-shape-4.png" alt="Image">
+					<img src="assets/images/circulo-pequeno.png" alt="Image">
 				</div>
 				<div class="shape shape-5">
 					<img src="assets/images/footer-shape-5.png" alt="Image">
 				</div>
 			</div>
 		</footer>
-		<!-- End Footer Area -->
+		<!-- Final Footer -->
 
-		<!-- Start Copy Right Area -->
+		<!-- Autor -->
 		<div class="copy-right-area">
 			<div class="copy-right-bg">
 				<div class="container">
@@ -1347,14 +1347,14 @@
 				</div>
 			</div>
 		</div>
-		<!-- End Copy Right Area -->
+		<!-- Final Autor -->
 		
-		<!-- Start Go Top Area -->
+		<!-- Scroll Top -->
 		<div class="go-top">
 			<i class="ri-arrow-up-s-fill"></i>
 			<i class="ri-arrow-up-s-fill"></i>
 		</div>
-		<!-- End Go Top Area -->
+		<!-- Final Scroll Top -->
 		
 
         <!-- Jquery Min JS -->
