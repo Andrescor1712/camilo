@@ -311,7 +311,6 @@ SECCIÓN DE TITULOS*/
   color: var(--azul-claro);
   font-size: 20px !important;
   font-weight: 500 !important;
-  text-transform: uppercase;
 }
 
 .titulos_seccion-servicios{
@@ -327,7 +326,7 @@ SECCIÓN DE TITULOS*/
 
 .section-title h2 {
   font-size: 40px;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   position: relative;
 }
 
@@ -2187,10 +2186,6 @@ INFO BANNER
   margin-bottom: 20px;
 }
 
-.hero-slider-content h1 span {
-  position: relative;
-  z-index: 1;
-}
 
 .hero-slider-content h1 span::before {
   content: "";

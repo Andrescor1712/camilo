@@ -178,7 +178,7 @@
 										<a href="nosotros.php" class="nav-link">Nosotros</a>
 									</li>
 									<li class="nav-item">
-										<a href="tratamientos.php" class="nav-link">Tratamientos</a>
+										<a href="servicios.php" class="nav-link">Tratamientos</a>
 									</li>
 
                                     <li class="nav-item">
@@ -196,7 +196,7 @@
 		
 												<ul class="dropdown-menu">
 													<li class="nav-item">
-														<a href="services.php" class="nav-link">Services</a>
+														<a href="servicios.php" class="nav-link">Services</a>
 													</li>
 													<li class="nav-item">
 														<a href="services-details.php" class="nav-link">Services Details</a>
@@ -268,13 +268,13 @@
 												</ul>
 											</li>
                                             <li class="nav-item">
-												<a href="gallery.php" class="nav-link">Gallery</a>
+												<a href="galeria.php" class="nav-link">Gallery</a>
 											</li>
                                             <li class="nav-item">
 												<a href="faq.php" class="nav-link">FAQ</a>
 											</li>
 											<li class="nav-item">
-												<a href="testimonials.php" class="nav-link">Testimonials </a>
+												<a href="testimonios.php" class="nav-link">Testimonials </a>
 											</li>
 											<li class="nav-item">
 												<a href="privacy-policy.php" class="nav-link">Privacy Policy</a>
@@ -671,7 +671,7 @@
 
 					<div class="col-12">
 						<div class="check-procedures">
-							<a href="services.php" class="read-more">
+							<a href="servicios.php" class="read-more">
 								All Services
 							</a>
 						</div>
@@ -706,7 +706,7 @@
 					</ul>
 				</div>
 
-				<a href="gallery.php" class="read-more">
+				<a href="galeria.php" class="read-more">
 					View All Gallery
 				</a>
 			</div>
@@ -791,7 +791,7 @@
 								</ul>
 							</div>
 
-							<a href="tratamientos.php" class="default-btn">
+							<a href="servicios.php" class="default-btn">
 								All Tratamientos
 								<i class="ri-arrow-right-circle-line"></i>
 							</a>
@@ -1087,13 +1087,13 @@
 	
 								<ul class="import-link">
 									<li>
-										<a href="gallery.php">Gallery</a>
+										<a href="galeria.php">Gallery</a>
 									</li>
 									<li>
 										<a href="contacto.php">Contacto</a>
 									</li>
 									<li>
-										<a href="tratamientos.php">Tratamientos</a>
+										<a href="servicios.php">Tratamientos</a>
 									</li>
 									<li>
 										<a href="privacy-policy.php">Privacy Policy</a>

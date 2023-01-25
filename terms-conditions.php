@@ -178,7 +178,7 @@
 										<a href="nosotros.php" class="nav-link">Nosotros</a>
 									</li>
 									<li class="nav-item">
-										<a href="tratamientos.php" class="nav-link">Tratamientos</a>
+										<a href="servicios.php" class="nav-link">Tratamientos</a>
 									</li>
 
                                     <li class="nav-item">
@@ -196,7 +196,7 @@
 		
 												<ul class="dropdown-menu">
 													<li class="nav-item">
-														<a href="services.php" class="nav-link">Services</a>
+														<a href="servicios.php" class="nav-link">Services</a>
 													</li>
 													<li class="nav-item">
 														<a href="services-details.php" class="nav-link">Services Details</a>
@@ -237,7 +237,7 @@
 														<a href="register.php" class="nav-link">Register</a>
 													</li>
 													<li class="nav-item">
-														<a href="Agenda tu Cita.php" class="nav-link">Agenda tu Cita</a>
+														<a href="agendar-cita.php" class="nav-link">Agenda tu Cita</a>
 													</li>
 													
 												</ul>
@@ -268,13 +268,13 @@
 												</ul>
 											</li>
                                             <li class="nav-item">
-												<a href="gallery.php" class="nav-link">Gallery</a>
+												<a href="galeria.php" class="nav-link">Gallery</a>
 											</li>
                                             <li class="nav-item">
 												<a href="faq.php" class="nav-link">FAQ</a>
 											</li>
 											<li class="nav-item">
-												<a href="testimonials.php" class="nav-link">Testimonials </a>
+												<a href="testimonios.php" class="nav-link">Testimonials </a>
 											</li>
 											<li class="nav-item">
 												<a href="privacy-policy.php" class="nav-link">Privacy Policy</a>
@@ -324,7 +324,7 @@
                                 <div class="others-options">
 									<ul>
 										<li>
-											<a href="Agenda tu Cita.php" class="default-btn">
+											<a href="agendar-cita.php" class="default-btn">
 												Agenda tu Cita
 												<i class="ri-file-text-line"></i>
 											</a>
@@ -357,7 +357,7 @@
 								<div class="others-option justify-content-center d-flex align-items-center">
 									<ul>
 										<li>
-											<a href="Agenda tu Cita.php" class="default-btn">
+											<a href="agendar-cita.php" class="default-btn">
 												Agenda tu Cita
 												<i class="ri-file-text-line"></i>
 											</a>
@@ -421,7 +421,7 @@
         </div>
 		<!-- Final Sidebar Info -->
 
-		<!-- Start Page Title Area -->
+		<!-- Sección Miga de Pan -->
 		<div class="page-title-area">
 			<div class="container">
 				<div class="page-title-content">
@@ -446,7 +446,7 @@
 				<img src="assets/images/page-title-shape-2.png" alt="Image">
 			</div>
 		</div>
-		<!-- End Page Title Area -->
+		<!-- Final Sección Miga de Pan -->
 
 		<!-- Start Terms Conditions Area -->
 		<section class="terms-conditions-area ptb-100">
@@ -545,13 +545,13 @@
 	
 								<ul class="import-link">
 									<li>
-										<a href="gallery.php">Gallery</a>
+										<a href="galeria.php">Gallery</a>
 									</li>
 									<li>
 										<a href="contacto.php">Contacto</a>
 									</li>
 									<li>
-										<a href="tratamientos.php">Tratamientos</a>
+										<a href="servicios.php">Tratamientos</a>
 									</li>
 									<li>
 										<a href="privacy-policy.php">Privacy Policy</a>

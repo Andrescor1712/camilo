@@ -1,7 +1,6 @@
 ﻿<!doctype html>
 <html lang="es">
-
-<head>
+    <head>
 	<!-- Meta tags Requeridos SEO -->
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -15,57 +14,57 @@
 	<!-- Favicon -->
 	<link rel="icon" type="image/png" href="assets/images/favicon.png">
 	<!-- Titulo Página -->
-	<title>Dr. Gerardo Camacho | Cirujano Plástico Bogotá Colombia</title>
+	<title>Tratamientos | Dr. Gerardo Camacho </title>
 
-	<!-- Bootstrap Min CSS -->
-	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
-	<!-- Owl Theme Default Min CSS -->
-	<link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
-	<!-- Owl Carousel Min CSS -->
-	<link rel="stylesheet" href="assets/css/owl.carousel.min.css">
-	<!-- Remixicon CSS -->
-	<link rel="stylesheet" href="assets/css/remixicon.css">
-	<!-- Meanmenu Min CSS -->
-	<link rel="stylesheet" href="assets/css/meanmenu.min.css">
-	<!-- Animate Min CSS -->
-	<link rel="stylesheet" href="assets/css/animate.min.css">
-	<!-- Magnific Popup Min CSS -->
-	<link rel="stylesheet" href="assets/css/magnific-popup.min.css">
-	<!-- Date Picker Min CSS -->
-	<link rel="stylesheet" href="assets/css/date-picker.min.css">
-	<!-- Before After Min CSS -->
-	<link rel="stylesheet" href="assets/css/before-after.min.css">
-	<!-- Odometer Min CSS -->
-	<link rel="stylesheet" href="assets/css/odometer.min.css">
-	<!-- Style CSS -->
-	<link rel="stylesheet" href="assets/css/style.css">
-	<!-- Responsive CSS -->
-	<link rel="stylesheet" href="assets/css/responsive.css">
+		<!-- Bootstrap Min CSS --> 
+		<link rel="stylesheet" href="assets/css/bootstrap.min.css">
+		<!-- Owl Theme Default Min CSS --> 
+		<link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
+		<!-- Owl Carousel Min CSS --> 
+		<link rel="stylesheet" href="assets/css/owl.carousel.min.css">
+		<!-- Remixicon CSS --> 
+		<link rel="stylesheet" href="assets/css/remixicon.css">
+		<!-- Meanmenu Min CSS -->
+		<link rel="stylesheet" href="assets/css/meanmenu.min.css">
+		<!-- Animate Min CSS --> 
+		<link rel="stylesheet" href="assets/css/animate.min.css">
+		<!-- Magnific Popup Min CSS --> 
+		<link rel="stylesheet" href="assets/css/magnific-popup.min.css">
+		<!-- Date Picker Min CSS --> 
+		<link rel="stylesheet" href="assets/css/date-picker.min.css">
+		<!-- Before After Min CSS --> 
+		<link rel="stylesheet" href="assets/css/before-after.min.css">
+		<!-- Odometer Min CSS --> 
+		<link rel="stylesheet" href="assets/css/odometer.min.css">
+		<!-- Style CSS -->
+		<link rel="stylesheet" href="assets/css/style.css">
+		<!-- Responsive CSS -->
+		<link rel="stylesheet" href="assets/css/responsive.css">
+	
+    </head>
 
-
-</head>
-
-<body>
-	<!-- Barra de carga -->
-	<div class="preloader">
-		<div class="lds-ripple">
-			<div class="preloader-container">
-				<div class="petal"></div>
-				<div class="petal"></div>
-				<div class="petal"></div>
-				<div class="petal"></div>
-				<div class="petal"></div>
-				<div class="petal"></div>
-				<div class="petal"></div>
-				<div class="petal"></div>
-				<div class="petal-1"></div>
-				<div class="petal-1"></div>
-				<div class="petal-1"></div>
-				<div class="ball"></div>
+    <body>
+		<!-- Barra de carga -->
+		<div class="preloader">
+			<div class="lds-ripple">
+				<div class="preloader-container">
+					<div class="petal"></div>
+					<div class="petal"></div>
+					<div class="petal"></div>
+					<div class="petal"></div>
+					<div class="petal"></div>
+					<div class="petal"></div>
+					<div class="petal"></div>
+					<div class="petal"></div>
+					<div class="petal-1"></div>
+					<div class="petal-1"></div>
+					<div class="petal-1"></div>
+					<div class="ball"></div>
+				</div>
 			</div>
 		</div>
-	</div>
-	<!-- Final Barra de Carga -->
+		<!-- Final Barra de Carga -->
+		
 
 	<!-- Comiezo Header -->
 	<header class="header-area">
@@ -161,7 +160,7 @@
 											<a href="galeria.php" class="nav-link">Casos de éxito</a>
 										</li>
 										<li class="nav-item">
-											<a href="testimonios.php" class="nav-link">Testimonios</a>
+											<a href="testimonios.php" class="nav-link active">Testimonios</a>
 										</li>
 									</ul>
 								</li>
@@ -410,154 +409,82 @@
 	</div>
 	<!-- Final Sidebar Info -->
 
-	<!-- Info Slider -->
-	<section class="hero-slider-area">
-		<div class="hero-slider owl-carousel owl-theme">
-			<div class="hero-slider-item bg-1">
-				<div class="container-fluid">
-					<div class="row align-items-center">
-						<div class="col-lg-5">
-							<div class="hero-slider-content">
-								<h1 class="name-doctor">Dr.Gerardo <span class="last-name">Camacho</span> </h1>
-								<p><b>Cirujano plástico</b> Bogotá Colombia con <b>más de 10 años de trayectoria con amplia experiencia</b> en Cirugía Plástica facial, corporal reconocido en Marcación abdominal hombres y mujeres , Mamoplastia , Mommy Makeover con en el manejo de tecnología Vaser®. Laser, Micro Aire® y J-Plasma</p>
-								<div class="hero-slider-btn">
-									<a href="nosotros.php" class="default-btn">
-										Leer más
-										<i class="ri-arrow-right-circle-line"></i>
-									</a>
+		<!-- Sección Miga de Pan -->
+		<div class="page-title-area">
+			<div class="container">
+				<div class="page-title-content">
+					<h2>Tratamientos</h2>
 
-									<a href="../watch.php?v=lDDdrT44j74" class="video-button popup-youtube">
-										<i class="ri-play-fill"></i>
-										<p>Nuestro enfoque</p>
-									</a>
-								</div>
-							</div>
-						</div>
+					<ul>
+						<li>
+							<a href="index.php">
+								Inicio 
+							</a>
+						</li>
 
-						<div class="col-lg-7 p-0">
-							<div class="hero-slider-img">
-								<img src="assets/images/slider/slider-img.png" alt="Slider Gerardo">
-							</div>
-						</div>
-					</div>
-				</div>
-
-				<div class="hero-slider-shape">
-					<div class="shape shape-1">
-						<img src="assets/images/slider/shape/circulo-medio-2.png" alt="Image">
-					</div>
-					<div class="shape shape-2">
-						<img src="assets/images/slider/shape/shape-2.png" alt="Image">
-					</div>
-					<div class="shape shape-3">
-						<img src="assets/images/slider/shape/circulo-medio.png" alt="Image">
-					</div>
-					<div class="shape shape-4">
-						<img src="assets/images/slider/shape/circulo-pequeno.png" alt="Image">
-					</div>
+						<li class="active">Tratamientos</li>
+					</ul>
 				</div>
 			</div>
 
-			<div class="hero-slider-item bg-2">
-				<div class="container-fluid">
-					<div class="row align-items-center">
-						<div class="col-lg-5">
-							<div class="hero-slider-content">
-								<h1 class="slider-info-2">Tratamientos especializados para ti</h1>
-								<p>El área de tratamiento más común para el injerto de grasa es la cara. Se puede
-									inyectar grasa en varias áreas para restaurar el volumen y los contornos juveniles,
-									al mismo tiempo que se rejuvenece la piel.</p>
-
-								<div class="hero-slider-btn">
-									<a href="nosotros.php" class="default-btn">
-										Leer más
-										<i class="ri-arrow-right-circle-line"></i>
-									</a>
-								</div>
-							</div>
-						</div>
-
-						<div class="col-lg-7 p-0">
-							<div class="hero-slider-img">
-								<img src="assets/images/slider/slider-img-2.png" alt="Slider Gerardo 2">
-							</div>
-						</div>
-					</div>
-				</div>
-
-				<div class="hero-slider-shape">
-					<div class="shape shape-1">
-						<img src="assets/images/slider/shape/circulo-medio-2.png" alt="Image">
-					</div>
-					<div class="shape shape-2">
-						<img src="assets/images/slider/shape/shape-2.png" alt="Image">
-					</div>
-					<div class="shape shape-3">
-						<img src="assets/images/slider/shape/circulo-medio.png" alt="Image">
-					</div>
-					<div class="shape shape-4">
-						<img src="assets/images/slider/shape/circulo-pequeno.png" alt="Image">
-					</div>
-				</div>
+			<div class="shape shape-1">
+				<img src="assets/images/page-title-circulo-medio-2.png" alt="Image">
+			</div>
+			<div class="shape shape-2">
+				<img src="assets/images/page-title-shape-2.png" alt="Image">
 			</div>
 		</div>
-	</section>
-	<!-- Final Info Slider -->
+		<!-- Final Sección Miga de Pan -->
 
-	<!-- Sección Doctor -->
-	<section class="doctor-about-area ptb-100">
+		<!-- End Feature Area -->
+		<section class="feature-area pb-70">
 		<div class="container">
-			<div class="doctor-about-bg ptb-100">
-				<div class="row align-items-center">
-					<div class="col-lg-6">
-						<div class="doctor-about-content">
-							<h2 class="nombre-doctor">Dr. Gerardo Camacho</h2>
-							<span class="ceo">CIRUJANO PLÁSTICO BOGOTÁ</span>
-							<p>Dr. Gerardo Camacho Cirujano Plástico Miembro de la Sociedad Colombiana de Cirugía plástica S.C.C.P. FILACP y AMERICAN SOCIETY OF PLASTIC SURGEONS.</p>
-							<p>Cirujano plástico Bogotá Colombia con más de 10 años de trayectoria con amplia
-								experiencia en Cirugía Plástica facial, corporal reconocido en Marcación abdominal hombres y mujeres , Mamoplastia , Mommy Makeover con en el manejo de tecnología Vaser®. Laser, Micro Aire® y J-Plasma</p>
-							<p>Además apasionado por su profesión y por el proceso artístico que imprime en cadaprocedimiento junto a su equipo médico especializado .</p>
-							<div class="doctor-about-btn py-3">
-								<a href="agendar-cita.php" class="default-btn">
-									Agendar Cita
-									<i class="ri-file-text-line"></i>
-								</a>
+			<div class="row">
+				<div class="col-lg-4 col-md-6">
+					<div class="single-feature bg-feebea">
+						<img src="assets/images/feature/feature-1.png" alt="Image">
+						<h3>Lorem Ipsum</h3>
+						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A esse saepe minima. Recusandae accusantium nemo iure perferendis, iste quia veritatis repellendus quam quidem, quibusdam odio. Eos quis nisi debitis est!</p>
 
-								<div class="call-us py-3 ">
-									<span>Contáctanos:</span>
-									<a href="tel:(312)-895-9800">(312) 895 9800</a>
-								</div>
-							</div>
-						</div>
-					</div>
-
-					<div class="col-lg-6">
-						<div class="doctor-about-img">
-							<img src="assets/images/doctor-about/doctor-gerardo-camacho.png" alt="Doctor Gerardo Camacho">
-
-							<div class="doctor-img-bg">
-								<img src="assets/images/doctor-about/circulo-fondo-azul.png" alt="Fondo Azul">
-							</div>
-						</div>
+						<a href="services-details.php" class="default-btn">
+							Leer más
+							<i class="ri-arrow-right-circle-line"></i>
+						</a>
 					</div>
 				</div>
 
-				<div class="shape shape-2">
-					<img src="assets/images/doctor-about/shape-2.png" alt="Image">
+				<div class="col-lg-4 col-md-6">
+					<div class="single-feature bg-dceff8">
+						<img src="assets/images/feature/feature-2.png" alt="Image">
+						<h3>Lorem Ipsum</h3>
+						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus voluptate omnis dolor et quos. A, cupiditate quibusdam suscipit inventore sequi dicta modi natus similique, praesentium ipsum, autem consectetur nihil eum?</p>
+
+						<a href="services-details.php" class="default-btn">
+							Leer más
+							<i class="ri-arrow-right-circle-line"></i>
+						</a>
+					</div>
 				</div>
-				<div class="shape shape-3">
-					<img src="assets/images/doctor-about/circulo-medio.png" alt="Image">
-				</div>
-				<div class="shape shape-4">
-					<img src="assets/images/doctor-about/circulo-pequeno.png" alt="Image">
+
+				<div class="col-lg-4 col-md-6 offset-lg-0 offset-md-3">
+					<div class="single-feature bg-feebea">
+						<img src="assets/images/feature/feature-3.png" alt="Image">
+						<h3>Lorem Ipsum</h3>
+						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis ab odit ex, dolores laudantium quidem, nobis voluptate officia voluptas assumenda ad! Rerum suscipit assumenda autem placeat dolore. Ducimus, accusamus minima?.</p>
+
+						<a href="services-details.php" class="default-btn">
+							Leer más
+							<i class="ri-arrow-right-circle-line"></i>
+						</a>
+					</div>
 				</div>
 			</div>
 		</div>
 	</section>
-	<!-- Final Sección Doctor -->
+		<!-- End Feature Area -->
 
-	<!-- Seccion Servicios -->
-	<section class="services-area pb-100">
+		<!-- Seccion Servicios -->
+		<section class="services-area pb-100">
 		<div class="container">
 			<div class="section-title">
 				<h2 class="titulos_seccion">Nuestros Servicios</h2>
@@ -663,17 +590,17 @@
 			</div>
 		</div>
 	</section>
-	<!-- Final Seccion Servicios -->
+		<!-- Final Seccion Servicios -->
 
-	<!-- Sección Galería -->
-	<section class="gallery-area gallery-popup bg-color ptb-100">
-		<div class="container-fluid p-0">
-			<div class="section-title">
+		<!-- Sección Galería -->
+		<section class="gallery-area gallery-popup pb-100">
+			<div class="container-fluid p-0">
+				<div class="section-title">
 				<h2 class="titulos_seccion">Casos de éxito</h2>
 				<p class="subtitulos_seccion">Galería de nuestros tratamientos a nuestros clientes</p>
-			</div>
+				</div>
 
-			<div class="gallery-slider owl-carousel owl-theme">
+				<div class="gallery-slider owl-carousel owl-theme">
 				<div class="gallery-item">
 					<img src="assets/images/gallery/gallery-1.jpg" alt="Image">
 
@@ -770,128 +697,62 @@
 					</div>
 				</div>
 			</div>
-		</div>
+			</div>
+		</section>
+		<!-- Final Sección Galería -->
 
-		<div class="shape shape-1">
-			<img src="assets/images/gallery/shape/circulo-medio-2.png" alt="Image">
-		</div>
-		<div class="shape shape-2">
-			<img src="assets/images/gallery/shape/shape-2.png" alt="Image">
-		</div>
-		<div class="shape shape-3">
-			<img src="assets/images/gallery/shape/circulo-medio.png" alt="Image">
-		</div>
-	</section>
-	<!-- Final Sección Galería -->
-
-	<!-- Sección Cirugía -->
-	<section class="surgical-area pt-100 pb-70">
-		<div class="container">
-			<div class="row align-items-center">
-				<div class="col-lg-6">
-					<div class="surgical-img">
-						<img src="assets/images/surgical-img.png" alt="Image">
-
-						<div class="shape">
-							<img src="assets/images/reviews/shape.png" alt="">
-						</div>
-					</div>
-				</div>
-
-				<div class="col-lg-6">
-					<div class="surgical-content">
-						<h2>Nuestro procedimientos medicos</h2>
-						<p> Most of our clients are having problem Cosmetic surgery is a unique discipline of medicine
-							focused on enhancing appearance through surgical and medical techniques. Cosmetic surgery
-							can be performed.</p>
-
-						<div class="faq-accordion">
-							<ul class="accordion">
-								<li class="accordion-item">
-									<a class="accordion-title active" href="javascript:void(0)">
-										<i class="ri-add-fill"></i>
-										Breast Implant Surgery
-									</a>
-
-									<div class="accordion-content show">
-										<p>Cosmetic surgery is a unique discipline of medicine focused on enhancing
-											appearance through surgical and medical techniques.</p>
-
-										<ul>
-											<li>
-												<i class="ri-checkbox-circle-fill"></i>
-												<p>Cosmetic surgery is a unique discipline of medicine.</p>
-											</li>
-											<li>
-												<i class="ri-checkbox-circle-fill"></i>
-												<p>Breast implant surgery is a unique discipline of medicine focused on
-													the other hand enhancing the body shape.</p>
-											</li>
-											<li>
-												<i class="ri-checkbox-circle-fill"></i>
-												<p>We are a good team of medical gudgeons to providing the best
-													treatment.</p>
-											</li>
-										</ul>
-									</div>
-								</li>
-
-								<li class="accordion-item">
-									<a class="accordion-title" href="javascript:void(0)">
-										<i class="ri-add-fill"></i>
-										Eyelid Lift Surgery
-									</a>
-
-									<div class="accordion-content">
-										<p>Cosmetic surgery is a unique discipline of medicine focused on enhancing
-											appearance through surgical and medical techniques.</p>
-									</div>
-								</li>
-
-								<li class="accordion-item">
-									<a class="accordion-title" href="javascript:void(0)">
-										<i class="ri-add-fill"></i>
-										Face and Neck Rejuvenation
-									</a>
-
-									<div class="accordion-content">
-										<p>Cosmetic surgery is a unique discipline of medicine focused on enhancing
-											appearance through surgical and medical techniques.</p>
-
-										<ul>
-											<li>
-												<i class="ri-checkbox-circle-fill"></i>
-												<p>Cosmetic surgery is a unique discipline of medicine.</p>
-											</li>
-											<li>
-												<i class="ri-checkbox-circle-fill"></i>
-												<p>Breast implant surgery is a unique discipline of medicine focused on
-													the other hand enhancing the body shape.</p>
-											</li>
-											<li>
-												<i class="ri-checkbox-circle-fill"></i>
-												<p>We are a good team of medical gudgeons to providing the best
-													treatment.</p>
-											</li>
-										</ul>
-									</div>
-								</li>
-							</ul>
+		<!-- Start Counter Area -->
+		<section class="counter-area pb-70">
+			<div class="container">
+				<div class="counter-bg">
+					<div class="row">
+						<div class="col-lg-3 col-sm-6">
+							<div class="single-counter">
+								<h2>
+									<span class="odometer" data-count="12425">00</span> 
+								</h2>
+								<h3>Pacientes Totales</h3>
+								<img src="assets/images/counter-icon/counter-icon-1.png" alt="Image">
+							</div>
 						</div>
 
-						<a href="servicios.php" class="default-btn">
-							All Tratamientos
-							<i class="ri-arrow-right-circle-line"></i>
-						</a>
+						<div class="col-lg-3 col-sm-6">
+							<div class="single-counter">
+								<h2>
+									<span class="odometer" data-count="12425">00</span> 
+								</h2>
+								<h3>Pacientes Felices</h3>
+								<img src="assets/images/counter-icon/counter-icon-2.png" alt="Image">
+							</div>
+						</div>
+
+						<div class="col-lg-3 col-sm-6">
+							<div class="single-counter">
+								<h2>
+									<span class="odometer" data-count="12425">00</span> 
+								</h2>
+								<h3>Non-Surgical Patients</h3>
+								<img src="assets/images/counter-icon/counter-icon-3.png" alt="Image">
+							</div>
+						</div>
+
+						<div class="col-lg-3 col-sm-6">
+							<div class="single-counter">
+								<h2>
+									<span class="odometer" data-count="12425">00</span> 
+								</h2>
+								<h3>Surgical Patients</h3>
+								<img src="assets/images/counter-icon/counter-icon-4.png" alt="Image">
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>
-		</div>
-	</section>
-	<!-- Final Sección Cirugía -->
+		</section>
+		<!-- End Counter Area -->
 
-	<!-- Sección Testimonios -->
-	<section class="reviews-patients-area bg-color ptb-100">
+		<!-- Sección Testimonios -->
+		<section class="reviews-patients-area bg-color ptb-100">
 		<div class="container">
 			<div class="section-title">
 				<h2>Testimonios de nuestros clientes</h2>
@@ -941,108 +802,20 @@
 			</div>
 		</div>
 
-		<div class="shape shape-1">
-			<img src="assets/images/reviews-avatar/circulo-medio-2.png" alt="Image">
-		</div>
-		<div class="shape shape-2">
-			<img src="assets/images/reviews-avatar/shape-2.png" alt="Image">
-		</div>
-		<div class="shape shape-3">
-			<img src="assets/images/reviews-avatar/circulo-medio.png" alt="Image">
-		</div>
-	</section>
-	<!-- Final Sección Testimonios -->
-
-	<!-- Sección Agendar Cita -->
-	<section class="appointment-area ptb-100">
-		<div class="bg-color pb-100">
-			<div class="container">
-				<div class="row">
-					<div class="appointment-action ptb-100">
-						<h2>Agenda tu cita</h2>
-
-						<form>
-							<div class="row">
-								<div class="col-lg-6 col-md-6">
-									<div class="form-group">
-										<input type="text" class="form-control" id="First-Name" placeholder="Nombre">
-									</div>
-								</div>
-
-								<div class="col-lg-6 col-md-6">
-									<div class="form-group">
-										<input type="text" class="form-control" id="Last-Name" placeholder="Apellido">
-									</div>
-								</div>
-
-								<div class="col-lg-6 col-md-6">
-									<div class="form-group">
-										<input type="email" class="form-control" id="Email" placeholder="Correo Electrónico">
-									</div>
-								</div>
-
-								<div class="col-lg-6 col-md-6">
-									<div class="form-group">
-										<input type="text" class="form-control" id="Phone" placeholder="Teléfono">
-									</div>
-								</div>
-
-								<div class="col-lg-6 col-md-6">
-									<div class="form-group">
-										<select>
-											<option class="muted" value="1">Tipo de tratamiento</option>
-											<option value="2">Cirugía estética hombres</option>
-											<option value="3">Cirugía estética mujeres</option>
-											<option value="4">Cirugía reconstructiva</option>
-											<option value="5">Cirugía genital</option>
-											<option value="6">Procedimientos antiedad</option>
-											<option value="7">Tecnologías invasivas y no invasivas</option>
-											<option value="8">Otro</option>
-
-										</select>
-									</div>
-								</div>
-
-								<div class="col-lg-6 col-md-6">
-									<div class="form-group">
-										<div class="input-group date" id="datetimepicker">
-											<input type="text" class="form-control" id="Date" placeholder="dd/mm/yyyy">
-											<span class="input-group-addon"></span>
-											<i class="bx bx-calendar"></i>
-										</div>
-									</div>
-								</div>
-
-								<div class="col-12">
-									<div class="form-group">
-										<textarea name="message" class="form-control" id="Message" rows="6" placeholder="¿Cuentanos en que podemos ayudarte?"></textarea>
-									</div>
-								</div>
-
-								<div class="col-12">
-									<button type="submit" class="default-btn">
-										Agendar
-										<i class="ri-file-text-line"></i>
-									</button>
-								</div>
-							</div>
-						</form>
-					</div>
-				</div>
-
-				<div class="shape shape-1">
-					<img src="assets/images/appointment-shape-1.png" alt="Image">
-				</div>
-				<div class="shape shape-2">
-					<img src="assets/images/appointment-shape-2.png" alt="Image">
-				</div>
+			<div class="shape shape-1">
+				<img src="assets/images/reviews-avatar/circulo-medio-2.png" alt="Image">
 			</div>
-		</div>
-	</section>
-	<!-- Final Formulario Agendar Cita -->
+			<div class="shape shape-2">
+				<img src="assets/images/reviews-avatar/shape-2.png" alt="Image">
+			</div>
+			<div class="shape shape-3">
+				<img src="assets/images/reviews-avatar/circulo-medio.png" alt="Image">
+			</div>
+		</section>
+		<!-- Sección Testimonios -->
 
-	<!-- Sección Blog -->
-	<section class="our-blog-area pb-70">
+		<!-- Sección Blog -->
+		<section class="our-blog-area pb-70 pt-5">
 		<div class="container">
 			<div class="section-title">
 				<h2>Consejos para la salud</h2>
@@ -1148,51 +921,7 @@
 			</div>
 		</div>
 	</section>
-	<!-- Final Sección Blog -->
-
-	<!-- Sección Clientes -->
-	<div class="partner-area pb-100">
-		<div class="container">
-			<div class="partner-slider owl-carousel owl-theme">
-				<div class="partner-item">
-					<a href="partner-details.php">
-						<img src="assets/images/partner/partner-1.png" alt="Image">
-					</a>
-				</div>
-
-				<div class="partner-item">
-					<a href="partner-details.php">
-						<img src="assets/images/partner/partner-2.png" alt="Image">
-					</a>
-				</div>
-
-				<div class="partner-item">
-					<a href="partner-details.php">
-						<img src="assets/images/partner/partner-3.png" alt="Image">
-					</a>
-				</div>
-
-				<div class="partner-item">
-					<a href="partner-details.php">
-						<img src="assets/images/partner/partner-4.png" alt="Image">
-					</a>
-				</div>
-
-				<div class="partner-item">
-					<a href="partner-details.php">
-						<img src="assets/images/partner/partner-5.png" alt="Image">
-					</a>
-				</div>
-
-				<div class="partner-item">
-					<a href="partner-details.php">
-						<img src="assets/images/partner/partner-3.png" alt="Image">
-					</a>
-				</div>
-			</div>
-		</div>
-	</div>
-	<!-- Final Sección Clientes -->
+		<!-- Final Sección Blog -->
 
 	<!-- Footer -->
 	<footer class="footer-area">
@@ -1356,38 +1085,37 @@
 		<i class="ri-arrow-up-s-fill"></i>
 	</div>
 	<!-- Final Scroll Top -->
+		
 
-
-	<!-- Jquery Min JS -->
-	<script src="assets/js/jquery.min.js"></script>
-	<!-- Bootstrap Bundle Min JS -->
-	<script src="assets/js/bootstrap.bundle.min.js"></script>
-	<!-- Meanmenu Min JS -->
-	<script src="assets/js/meanmenu.min.js"></script>
-	<!-- Owl Carousel Min JS -->
-	<script src="assets/js/owl.carousel.min.js"></script>
-	<!-- Wow Min JS -->
-	<script src="assets/js/wow.min.js"></script>
-	<!-- Magnific Popup Min JS -->
-	<script src="assets/js/magnific-popup.min.js"></script>
-	<!-- Bootstrap Datepicker Min JS -->
-	<script src="assets/js/bootstrap-datepicker.min.js"></script>
-	<!-- Before After Min JS -->
-	<script src="assets/js/before-after.min.js"></script>
-	<!-- Appear Min JS -->
-	<script src="assets/js/appear.min.js"></script>
-	<!-- Odometer Min JS -->
-	<script src="assets/js/odometer.min.js"></script>
-	<!-- Mixitup Min JS -->
-	<script src="assets/js/mixitup.min.js"></script>
-	<!-- Form Validator Min JS -->
-	<script src="assets/js/form-validator.min.js"></script>
-	<!-- Contact JS -->
-	<script src="assets/js/contact-form-script.js"></script>
-	<!-- Ajaxchimp Min JS -->
-	<script src="assets/js/ajaxchimp.min.js"></script>
-	<!-- Custom JS -->
-	<script src="assets/js/custom.js"></script>
-</body>
-
+        <!-- Jquery Min JS -->
+        <script src="assets/js/jquery.min.js"></script> 
+        <!-- Bootstrap Bundle Min JS -->
+        <script src="assets/js/bootstrap.bundle.min.js"></script>
+        <!-- Meanmenu Min JS -->
+		<script src="assets/js/meanmenu.min.js"></script>
+		<!-- Owl Carousel Min JS -->
+		<script src="assets/js/owl.carousel.min.js"></script>
+		<!-- Wow Min JS -->
+        <script src="assets/js/wow.min.js"></script>
+		<!-- Magnific Popup Min JS -->
+        <script src="assets/js/magnific-popup.min.js"></script>
+		<!-- Bootstrap Datepicker Min JS -->
+        <script src="assets/js/bootstrap-datepicker.min.js"></script>
+		<!-- Before After Min JS -->
+        <script src="assets/js/before-after.min.js"></script>
+		<!-- Appear Min JS -->
+        <script src="assets/js/appear.min.js"></script>
+		<!-- Odometer Min JS -->
+        <script src="assets/js/odometer.min.js"></script>
+		<!-- Mixitup Min JS -->
+        <script src="assets/js/mixitup.min.js"></script>
+		<!-- Form Validator Min JS -->
+		<script src="assets/js/form-validator.min.js"></script>
+		<!-- Contact JS -->
+		<script src="assets/js/contact-form-script.js"></script>
+		<!-- Ajaxchimp Min JS -->
+		<script src="assets/js/ajaxchimp.min.js"></script>
+        <!-- Custom JS -->
+		<script src="assets/js/custom.js"></script>
+    </body>
 </html>

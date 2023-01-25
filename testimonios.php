@@ -15,7 +15,7 @@
 	<!-- Favicon -->
 	<link rel="icon" type="image/png" href="assets/images/favicon.png">
 	<!-- Titulo Página -->
-	<title>Consejos para la salud | Dr. Gerardo Camacho </title>
+	<title>Testimonios | Dr. Gerardo Camacho </title>
 
 	<!-- Bootstrap Min CSS -->
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -42,6 +42,8 @@
 	<!-- Responsive CSS -->
 	<link rel="stylesheet" href="assets/css/responsive.css">
 
+</head>
+
 <body>
 	<!-- Barra de carga -->
 	<div class="preloader">
@@ -63,7 +65,6 @@
 		</div>
 	</div>
 	<!-- Final Barra de Carga -->
-
 
 	<!-- Comiezo Header -->
 	<header class="header-area">
@@ -159,7 +160,7 @@
 											<a href="galeria.php" class="nav-link">Casos de éxito</a>
 										</li>
 										<li class="nav-item">
-											<a href="testimonios.php" class="nav-link">Testimonios</a>
+											<a href="testimonios.php" class="nav-link active">Testimonios</a>
 										</li>
 									</ul>
 								</li>
@@ -168,27 +169,10 @@
 									<a href="servicios.php" class="nav-link">Tratamientos <i class="ri-arrow-down-s-line"></i></a>
 									<ul class="dropdown-menu">
 										<li class="nav-item">
-											<a href="#" class="nav-link">Cirugía estética hombres <i class="ri-arrow-right-s-line"></i></a>
-											<ul class="dropdown-menu">
-												<li class="nav-item">
-													<a href="#" class="nav-link">Cirugía facial hombres</a>
-												</li>
-												<li class="nav-item">
-													<a href="#" class="nav-link">Cirugía corporal hombres</a>
-												</li>
-											</ul>
+											<a href="#" class="nav-link">Cirugía estética hombres</a>
 										</li>
-
 										<li class="nav-item">
 											<a href="#" class="nav-link">Cirugía estética mujeres</a>
-											<ul class="dropdown-menu">
-												<li class="nav-item">
-													<a href="#" class="nav-link">Cirugía facial mujeres</a>
-												</li>
-												<li class="nav-item">
-													<a href="#" class="nav-link">Cirugía corporal mujeres</a>
-												</li>
-											</ul>
 										</li>
 										<li class="nav-item">
 											<a href="# class=" nav-link">Cirugía reconstructiva</a>
@@ -206,7 +190,7 @@
 								</li>
 
 								<li class="nav-item">
-									<a href="blog.php" class="nav-link active">
+									<a href="blog.php" class="nav-link">
 										Blog
 									</a>
 
@@ -412,7 +396,7 @@
 	<div class="page-title-area">
 		<div class="container">
 			<div class="page-title-content">
-				<h2>Consejos para la salud</h2>
+				<h2>Testimonios</h2>
 
 				<ul>
 					<li>
@@ -421,7 +405,7 @@
 						</a>
 					</li>
 
-					<li class="active">Consejos para la salud</li>
+					<li class="active">Testimonios</li>
 				</ul>
 			</div>
 		</div>
@@ -435,321 +419,127 @@
 	</div>
 	<!-- Final Sección Miga de Pan -->
 
-	<!-- Start Blog Area -->
-	<section class="blog-post-grid-sidebar-area ptb-100">
+	<!-- Sección Testimonios -->
+	<section class="reviews-patients-area bg-color ptb-100">
 		<div class="container">
-			<div class="row">
-				<div class="col-lg-8">
-					<div class="row">
-						<div class="col-lg-6 col-md-6">
-							<div class="single-blog">
-								<a href="blog-details.php">
-									<img src="assets/images/blog/blog-1.jpg" alt="Image">
-								</a>
+			<div class="section-title">
+				<h2>Testimonios de nuestros clientes</h2>
+				<p>Estos testimonios corresponden a experiencias de diferentes pacientes del Dr. Gerardo Camacho con procedimientos de Cirugía Plástica.</p>
+			</div>
 
-								<div class="blog-content">
-									<ul>
-										<li>
-											<span>Face Lift</span>
-										</li>
-										<li>
-											<a href="#">05 January, 2021</a>
-										</li>
-									</ul>
-
-									<h3>
-										<a href="blog-details.php">
-											Tellus Vulputate Non Magna Eget Urna Mollis Lacinia Mollis
-										</a>
-									</h3>
-
-									<p>The most common treatment area for fat grafting in the face may inject into several areas area for fat grafting in the face may</p>
-
-									<a href="blog-details.php" class="read-more">
-										Leer más
-									</a>
-								</div>
-							</div>
-						</div>
-
-						<div class="col-lg-6 col-md-6">
-							<div class="single-blog">
-								<a href="blog-details.php">
-									<img src="assets/images/blog/blog-2.jpg" alt="Image">
-								</a>
-
-								<div class="blog-content">
-									<ul>
-										<li>
-											<span>Brow Lift</span>
-										</li>
-										<li>
-											<a href="#">06 January, 2021</a>
-										</li>
-									</ul>
-
-									<h3>
-										<a href="blog-details.php">
-											Face Lift is a Non-surgical Surgery to Improve Your Overall Glamour
-										</a>
-									</h3>
-
-									<p>The most common treatment area for fat grafting is the face may inject into several areas area for fat grafting is the face may</p>
-
-									<a href="blog-details.php" class="read-more">
-										Leer más
-									</a>
-								</div>
-							</div>
-						</div>
-
-						<div class="col-lg-6 col-md-6">
-							<div class="single-blog">
-								<a href="blog-details.php">
-									<img src="assets/images/blog/blog-3.jpg" alt="Image">
-								</a>
-
-								<div class="blog-content">
-									<ul>
-										<li>
-											<span>Face Lift</span>
-										</li>
-										<li>
-											<a href="#">07 January, 2021</a>
-										</li>
-									</ul>
-
-									<h3>
-										<a href="blog-details.php">
-											Most Popular Breast Implant Surgeon in United State
-										</a>
-									</h3>
-
-									<p>The most popular breast implant in the United States area for fat grafting in the face may inject into several areas area for fat grafting</p>
-
-									<a href="blog-details.php" class="read-more">
-										Leer más
-									</a>
-								</div>
-							</div>
-						</div>
-
-						<div class="col-lg-6 col-md-6">
-							<div class="single-blog">
-								<a href="blog-details.php">
-									<img src="assets/images/blog/blog-4.jpg" alt="Image">
-								</a>
-
-								<div class="blog-content">
-									<ul>
-										<li>
-											<span>Face Lift</span>
-										</li>
-										<li>
-											<a href="#">07 January, 2021</a>
-										</li>
-									</ul>
-
-									<h3>
-										<a href="blog-details.php">
-											San Jose’s Top Coolsculpting Center
-										</a>
-									</h3>
-
-									<p>The most popular breast implant in the United States area for fat grafting in the face may inject into several areas area for fat grafting</p>
-
-									<a href="blog-details.php" class="read-more">
-										Leer más
-									</a>
-								</div>
-							</div>
-						</div>
-
-						<div class="col-lg-6 col-md-6">
-							<div class="single-blog">
-								<a href="blog-details.php">
-									<img src="assets/images/blog/blog-5.jpg" alt="Image">
-								</a>
-
-								<div class="blog-content">
-									<ul>
-										<li>
-											<span>Face Lift</span>
-										</li>
-										<li>
-											<a href="#">07 January, 2021</a>
-										</li>
-									</ul>
-
-									<h3>
-										<a href="blog-details.php">
-											Sculptural Buttock Lift
-										</a>
-									</h3>
-
-									<p>The most popular breast implant in the United States area for fat grafting in the face may inject into several areas area for fat grafting</p>
-
-									<a href="blog-details.php" class="read-more">
-										Leer más
-									</a>
-								</div>
-							</div>
-						</div>
-
-						<div class="col-lg-6 col-md-6">
-							<div class="single-blog">
-								<a href="blog-details.php">
-									<img src="assets/images/blog/blog-6.jpg" alt="Image">
-								</a>
-
-								<div class="blog-content">
-									<ul>
-										<li>
-											<span>Face Lift</span>
-										</li>
-										<li>
-											<a href="#">07 January, 2021</a>
-										</li>
-									</ul>
-
-									<h3>
-										<a href="blog-details.php">
-											Picot's Is The Evolution of Tattoo
-										</a>
-									</h3>
-
-									<p>The most popular breast implant in the United States area for fat grafting in the face may inject into several areas area for fat grafting</p>
-
-									<a href="blog-details.php" class="read-more">
-										Leer más
-									</a>
-								</div>
-							</div>
-						</div>
-
-						<div class="col-12">
-							<div class="pagination-area">
-								<span class="page-numbers current" aria-current="page">1</span>
-								<a href="#" class="page-numbers">2</a>
-								<a href="#" class="page-numbers">3</a>
-
-								<a href="#" class="next page-numbers">
-									<i class="ri-arrow-right-s-line"></i>
-								</a>
-							</div>
-						</div>
+			<div class="reviews-patients-slider owl-carousel owl-theme">
+				<div class="single-reviews-patients">
+					<div class="avatar">
+						<img src="assets/images/reviews-avatar/testimonio-angelica.png" alt="Foto Angelica Fernandez">
+						<i class="ri-double-quotes-l"></i>
 					</div>
+
+					<h3>Angelica Fernandez</h3>
+					<span>Cliente Satisfecho</span>
+					<p>Estoy tan feliz con mis nuevos senos, el doctor Gerardo Camacho me asesoro en todo el proceso y
+						tuve una excelente recuperación.</p>
 				</div>
 
-				<div class="col-lg-4">
-					<div class="widget-sidebar">
-						<div class="sidebar-widget search">
-							<form class="search-form">
-								<input class="form-control" name="search" placeholder="Search..." type="text">
-								<button class="search-button" type="submit">
-									<i class="ri-search-line"></i>
-								</button>
-							</form>
-						</div>
-
-						<div class="sidebar-widget categories">
-							<h3>Categories</h3>
-
-							<ul>
-								<li>
-									<a href="#">
-										Eyelid Surgery(05)
-									</a>
-								</li>
-								<li>
-									<a href="#">
-										Body(10)
-									</a>
-								</li>
-								<li>
-									<a href="#">
-										Face Surgery(04)
-									</a>
-								</li>
-								<li>
-									<a href="#">
-										Lip Augmentation(08)
-									</a>
-								</li>
-								<li>
-									<a href="#">
-										Breast Implant(07)
-									</a>
-								</li>
-								<li>
-									<a href="#">
-										Non-Surgical(06)
-									</a>
-								</li>
-							</ul>
-						</div>
-
-						<div class="sidebar-widget recent-post">
-							<h3 class="widget-title">Recientemente</h3>
-
-							<ul>
-								<li>
-									<a href="blog-details.php">
-										Tellus Vulputate Non Magna Eget Urna Mollis Lacinia Mollis
-										<img src="assets/images/blog-details/recent-post-1.jpg" alt="Image">
-									</a>
-									<span>Dec 15, 2020</span>
-								</li>
-								<li>
-									<a href="blog-details.php">
-										Face Lift Is A Non-surgical Surgery To Improve
-										<img src="assets/images/blog-details/recent-post-2.jpg" alt="Image">
-									</a>
-									<span>Dec 16, 2020</span>
-								</li>
-								<li>
-									<a href="blog-details.php">
-										Most Popular Breast Implant Surgeon In United State
-										<img src="assets/images/blog-details/recent-post-3.jpg" alt="Image">
-									</a>
-									<span>Dec 17, 2020</span>
-								</li>
-							</ul>
-						</div>
-
-						<div class="sidebar-widget tags mb-0">
-							<h3>Tags</h3>
-
-							<ul>
-								<li>
-									<a href="#">Face Lift</a>
-								</li>
-								<li>
-									<a href="#">Surgery</a>
-								</li>
-								<li>
-									<a href="#">Body</a>
-								</li>
-								<li>
-									<a href="#">Surgical</a>
-								</li>
-								<li>
-									<a href="#">Implant</a>
-								</li>
-								<li>
-									<a href="#">Non-Surgical</a>
-								</li>
-								<li>
-									<a href="#">Eyelid</a>
-								</li>
-							</ul>
-						</div>
+				<div class="single-reviews-patients">
+					<div class="avatar">
+						<img src="assets/images/reviews-avatar/testimonio-alexander.png" alt="Foto Alexander Tenjo">
+						<i class="ri-double-quotes-l"></i>
 					</div>
+
+					<h3>Alexander Rivas Tenjo</h3>
+					<span>Cliente Satisfecho</span>
+					<p>Definitivamente la mejor decisión que allá podido tomar, enfrentarme a este cambio de vida de la
+						mano de la experiencia, calidez y profesionalismo del doctor Gerardo me demostró que puedo
+						confiarle mis sueños a una persona que hará todo por cumplirlos. Le agradezco de corazón todo el
+						esfuerzo y el apoyo brindado.</p>
+				</div>
+
+				<div class="single-reviews-patients">
+					<div class="avatar">
+						<img src="assets/images/reviews-avatar/testimonio-susana.png" alt="Foto Susana Bello">
+						<i class="ri-double-quotes-l"></i>
+					</div>
+
+					<h3>Susana Bello</h3>
+					<span>Cliente Satisfecho</span>
+					<p>El Dr.Camacho y todo su equipo son excelentes profesionales y cálido ser humano. Te dan la
+						confianza necesaria para sentirte seguro en manos de ellos. Las instalaciones son de ultima
+						tecnología y muy avanzados. Son impecables y muy organizados con el proceso antes y después de
+						una cirugía. Los recomiendo al 100%.</p>
+				</div>
+			</div>
+		</div>
+
+		<div class="shape shape-1">
+			<img src="assets/images/reviews-avatar/circulo-medio-2.png" alt="Image">
+		</div>
+		<div class="shape shape-2">
+			<img src="assets/images/reviews-avatar/shape-2.png" alt="Image">
+		</div>
+		<div class="shape shape-3">
+			<img src="assets/images/reviews-avatar/circulo-medio.png" alt="Image">
+		</div>
+	</section>
+	<!-- Sección Testimonios -->
+
+	<!-- Start Reviews Patients Area -->
+	<section class="reviews-patients-area reviews-patients-area-style-two reviews-patients-area-style-three bg-color ptb-100">
+		<div class="container">
+			<div class="section-title">
+				<h2>Comentarios Recientes</h2>
+				<p>Nuestros clientes hablan por nosotros aca una muestra:</p>
+			</div>
+
+			<div class="reviews-patients-slider-style-two owl-carousel owl-theme">
+				<div class="single-reviews-patients">
+					<div class="avatar">
+						<img src="assets/images/reviews-avatar/testimonio-angelica.png" alt="Image">
+						<i class="ri-double-quotes-l"></i>
+					</div>
+
+
+					<p>Estoy tan feliz con mis nuevos senos, el doctor Gerardo Camacho me asesoro en todo el proceso y
+						tuve una excelente recuperación.</p>
+
+					<h3>Angelica Fernandez</h3>
+					<span>Cliente Satisfecho</span>
+				</div>
+
+				<div class="single-reviews-patients">
+					<div class="avatar">
+						<img src="assets/images/reviews-avatar/testimonio-alexander.png" alt="Image">
+						<i class="ri-double-quotes-l"></i>
+					</div>
+
+
+					<p>Definitivamente la mejor decisión que allá podido tomar, enfrentarme a este cambio de vida de la
+						mano de la experiencia, calidez y profesionalismo del doctor Gerardo me demostró que puedo
+						confiarle mis sueños a una persona que hará todo por cumplirlos. Le agradezco de corazón todo el
+						esfuerzo y el apoyo brindado.</p>
+
+					<h3>Alexander Rivas Tenjo</h3>
+					<span>Cliente Satisfecho</span>
+				</div>
+
+				<div class="single-reviews-patients">
+					<div class="avatar">
+						<img src="assets/images/reviews-avatar/testimonio-susana.png" alt="Image">
+						<i class="ri-double-quotes-l"></i>
+					</div>
+
+
+					<p>El Dr.Camacho y todo su equipo son excelentes profesionales y cálido ser humano. Te dan la
+						confianza necesaria para sentirte seguro en manos de ellos. Las instalaciones son de ultima
+						tecnología y muy avanzados. Son impecables y muy organizados con el proceso antes y después de
+						una cirugía. Los recomiendo al 100%.</p>
+
+					<h3>Susana Bello</h3>
+					<span>Cliente Satisfecho</span>
 				</div>
 			</div>
 		</div>
 	</section>
-	<!-- Final Sección Blog -->
+	<!-- Sección Testimonios -->
 
 	<!-- Footer -->
 	<footer class="footer-area">
@@ -840,7 +630,7 @@
 								<input type="email" class="form-control" placeholder="Tu Email" name="EMAIL" required="" autocomplete="off">
 
 								<button class="default-btn" type="submit">
-									Send
+									Enviar
 								</button>
 
 								<div id="validator-newsletter" class="form-result"></div>

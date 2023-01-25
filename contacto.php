@@ -1,66 +1,74 @@
 ﻿<!doctype html>
 <html lang="es">
-    <head>
-		<!-- Required meta tags -->
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-		<!-- Bootstrap Min CSS --> 
-		<link rel="stylesheet" href="assets/css/bootstrap.min.css">
-		<!-- Owl Theme Default Min CSS --> 
-		<link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
-		<!-- Owl Carousel Min CSS --> 
-		<link rel="stylesheet" href="assets/css/owl.carousel.min.css">
-		<!-- Remixicon CSS --> 
-		<link rel="stylesheet" href="assets/css/remixicon.css">
-		<!-- Meanmenu Min CSS -->
-		<link rel="stylesheet" href="assets/css/meanmenu.min.css">
-		<!-- Animate Min CSS --> 
-		<link rel="stylesheet" href="assets/css/animate.min.css">
-		<!-- Magnific Popup Min CSS --> 
-		<link rel="stylesheet" href="assets/css/magnific-popup.min.css">
-		<!-- Date Picker Min CSS --> 
-		<link rel="stylesheet" href="assets/css/date-picker.min.css">
-		<!-- Before After Min CSS --> 
-		<link rel="stylesheet" href="assets/css/before-after.min.css">
-		<!-- Odometer Min CSS --> 
-		<link rel="stylesheet" href="assets/css/odometer.min.css">
-		<!-- Style CSS -->
-		<link rel="stylesheet" href="assets/css/style.css">
-		<!-- Responsive CSS -->
-		<link rel="stylesheet" href="assets/css/responsive.css">
-		
-		<!-- Favicon -->
-		<link rel="icon" type="image/png" href="assets/images/favicon.png">
-		<!-- Title -->
-		<title>Gerardo Camacho Template</title>
-    </head>
+<head>
+	<!-- Meta tags Requeridos SEO -->
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="author" content="Gerardo Camacho" />
+	<meta name="description" content="Cirujano plástico Bogotá Colombia con más de 10 años de trayectoria con amplia experiencia en Cirugía Plástica facial, corporal reconocido en Marcación abdominal hombres y mujeres , Mamoplastia , Mommy Makeover con en el manejo de tecnología Vaser®. Laser, Micro Aire® y J-Plasma" />
+	<meta name="keywords" content="lipolisis,laser,plástico,cirujano,bogotá,colombia," />
+	<meta name="copyright" content="Gerardo Camacho" />
+	<meta name="robots" content="index" />
+	<meta name="robots" content="follow" />
 
-    <body>
-		<!-- Barra de carga -->
-		<div class="preloader">
-			<div class="lds-ripple">
-				<div class="preloader-container">
-					<div class="petal"></div>
-					<div class="petal"></div>
-					<div class="petal"></div>
-					<div class="petal"></div>
-					<div class="petal"></div>
-					<div class="petal"></div>
-					<div class="petal"></div>
-					<div class="petal"></div>
-					<div class="petal-1"></div>
-					<div class="petal-1"></div>
-					<div class="petal-1"></div>
-					<div class="ball"></div>
-				</div>
+	<!-- Favicon -->
+	<link rel="icon" type="image/png" href="assets/images/favicon.png">
+	<!-- Titulo Página -->
+	<title>Contacto | Dr. Gerardo Camacho </title>
+
+	<!-- Bootstrap Min CSS -->
+	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
+	<!-- Owl Theme Default Min CSS -->
+	<link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
+	<!-- Owl Carousel Min CSS -->
+	<link rel="stylesheet" href="assets/css/owl.carousel.min.css">
+	<!-- Remixicon CSS -->
+	<link rel="stylesheet" href="assets/css/remixicon.css">
+	<!-- Meanmenu Min CSS -->
+	<link rel="stylesheet" href="assets/css/meanmenu.min.css">
+	<!-- Animate Min CSS -->
+	<link rel="stylesheet" href="assets/css/animate.min.css">
+	<!-- Magnific Popup Min CSS -->
+	<link rel="stylesheet" href="assets/css/magnific-popup.min.css">
+	<!-- Date Picker Min CSS -->
+	<link rel="stylesheet" href="assets/css/date-picker.min.css">
+	<!-- Before After Min CSS -->
+	<link rel="stylesheet" href="assets/css/before-after.min.css">
+	<!-- Odometer Min CSS -->
+	<link rel="stylesheet" href="assets/css/odometer.min.css">
+	<!-- Style CSS -->
+	<link rel="stylesheet" href="assets/css/style.css">
+	<!-- Responsive CSS -->
+	<link rel="stylesheet" href="assets/css/responsive.css">
+
+</head>
+
+<body>
+	<!-- Barra de carga -->
+	<div class="preloader">
+		<div class="lds-ripple">
+			<div class="preloader-container">
+				<div class="petal"></div>
+				<div class="petal"></div>
+				<div class="petal"></div>
+				<div class="petal"></div>
+				<div class="petal"></div>
+				<div class="petal"></div>
+				<div class="petal"></div>
+				<div class="petal"></div>
+				<div class="petal-1"></div>
+				<div class="petal-1"></div>
+				<div class="petal-1"></div>
+				<div class="ball"></div>
 			</div>
 		</div>
-		<!-- Final Barra de Carga -->
-		
-	
-	<!-- Comiezo Header -->
-	<header class="header-area">
+	</div>
+	<!-- Final Barra de Carga -->
+
+
+<!-- Comiezo Header -->
+<header class="header-area">
 		<!-- Header Contacto -->
 		<div class="top-header">
 			<div class="container">
@@ -141,130 +149,62 @@
 
 						<div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
 							<ul class="navbar-nav">
+			
 								<li class="nav-item">
-									<a href="index.php" class="nav-link ">Inicio</a>
+									<a href="#" class="nav-link">Dr.Gerardo Camacho <i class="ri-arrow-down-s-line"></i></a>
+
+									<ul class="dropdown-menu">
+										<li class="nav-item">
+											<a href="nosotros.php" class="nav-link">Sobre mí</a>
+										</li>
+										<li class="nav-item">
+											<a href="galeria.php" class="nav-link">Casos de éxito</a>
+										</li>
+										<li class="nav-item">
+											<a href="testimonios.php" class="nav-link">Testimonios</a>
+										</li>
+									</ul>
 								</li>
 
 								<li class="nav-item">
-									<a href="nosotros.php" class="nav-link">Dr.Gerardo Camacho</a>
-								</li>
+									<a href="servicios.php" class="nav-link">Tratamientos <i class="ri-arrow-down-s-line"></i></a>
+									<ul class="dropdown-menu">
+										<li class="nav-item">
+											<a href="#" class="nav-link">Cirugía estética hombres <i class="ri-arrow-right-s-line"></i></a>
+											<ul class="dropdown-menu">
+												<li class="nav-item">
+													<a href="#" class="nav-link">Cirugía facial hombres</a>
+												</li>
+												<li class="nav-item">
+													<a href="#" class="nav-link">Cirugía corporal hombres</a>
+												</li>
+											</ul>
+										</li>
 
-
-								<!-- <li class="nav-item">
-										<a href="#" class="nav-link">
-											Pages 
-											<i class="ri-arrow-down-s-line"></i>
-										</a>
-
-                                        <ul class="dropdown-menu">
-											<li class="nav-item">
-												<a href="#" class="nav-link">
-													Services 
-													<i class="ri-arrow-down-s-line"></i>
-												</a>
-		
-												<ul class="dropdown-menu">
-													<li class="nav-item">
-														<a href="services.php" class="nav-link">Services</a>
-													</li>
-													<li class="nav-item">
-														<a href="services-details.php" class="nav-link">Services Details</a>
-													</li>
-												</ul>
-											</li>
-
-											<li class="nav-item">
-												<a href="#" class="nav-link">
-													Our Doctors 
-													<i class="ri-arrow-down-s-line"></i>
-												</a>
-		
-												<ul class="dropdown-menu">
-													<li class="nav-item">
-														<a href="doctors.php" class="nav-link">Doctors</a>
-													</li>
-													<li class="nav-item">
-														<a href="doctors-details.php" class="nav-link">Doctors Details</a>
-													</li>
-												</ul>
-											</li>
-
-											<li class="nav-item">
-												<a href="#" class="nav-link">
-													User 
-													<i class="ri-arrow-down-s-line"></i>
-												</a>
-		
-												<ul class="dropdown-menu">
-													<li class="nav-item">
-														<a href="my-account.php" class="nav-link">My Account</a>
-													</li>
-													<li class="nav-item">
-														<a href="log-in.php" class="nav-link">Log In</a>
-													</li>
-													<li class="nav-item">
-														<a href="register.php" class="nav-link">Register</a>
-													</li>
-													<li class="nav-item">
-														<a href="Agenda tu Cita.php" class="nav-link">Agenda tu Cita</a>
-													</li>
-													
-												</ul>
-											</li>
-
-											<li class="nav-item">
-												<a href="#" class="nav-link">
-													Shop 
-													<i class="ri-arrow-down-s-line"></i>
-												</a>
-		
-												<ul class="dropdown-menu">
-													<li class="nav-item">
-														<a href="product.php" class="nav-link">Product</a>
-													</li>
-													<li class="nav-item">
-														<a href="cart.php" class="nav-link">Cart </a>
-													</li>
-													<li class="nav-item">
-														<a href="checkout.php" class="nav-link">Checkout</a>
-													</li>
-													<li class="nav-item">
-														<a href="wishlist.php" class="nav-link">Wishlist</a>
-													</li>
-													<li class="nav-item">
-														<a href="product-details.php" class="nav-link">Product Details</a>
-													</li>
-												</ul>
-											</li>
-                                            <li class="nav-item">
-												<a href="gallery.php" class="nav-link">Gallery</a>
-											</li>
-                                            <li class="nav-item">
-												<a href="faq.php" class="nav-link">FAQ</a>
-											</li>
-											<li class="nav-item">
-												<a href="testimonials.php" class="nav-link">Testimonials </a>
-											</li>
-											<li class="nav-item">
-												<a href="privacy-policy.php" class="nav-link">Privacy Policy</a>
-											</li>
-											<li class="nav-item">
-												<a href="terms-conditions.php" class="nav-link">Terms & Conditions</a>
-											</li>
-											<li class="nav-item">
-												<a href="partner-details.php" class="nav-link">Partner Details</a>
-											</li>
-											<li class="nav-item">
-												<a href="coming-soon.php" class="nav-link">Coming Soon</a>
-											</li>
-                                            <li class="nav-item">
-												<a href="404.php" class="nav-link">404 Page</a>
-											</li>
-										</ul>
-									</li> -->
-
-								<li class="nav-item">
-									<a href="tratamientos.php" class="nav-link">Tratamientos</a>
+										<li class="nav-item">
+											<a href="#" class="nav-link">Cirugía estética mujeres</a>
+											<ul class="dropdown-menu">
+												<li class="nav-item">
+													<a href="#" class="nav-link">Cirugía facial mujeres</a>
+												</li>
+												<li class="nav-item">
+													<a href="#" class="nav-link">Cirugía corporal mujeres</a>
+												</li>
+											</ul>
+										</li>
+										<li class="nav-item">
+											<a href="# class=" nav-link">Cirugía reconstructiva</a>
+										</li>
+										<li class="nav-item">
+											<a href="#" class="nav-link">Cirugía genital</a>
+										</li>
+										<li class="nav-item">
+											<a href="#" class="nav-link">Procedimientos antiedad</a>
+										</li>
+										<li class="nav-item">
+											<a href="#" class="nav-link">Tecnologías invasivas y no invasivas</a>
+										</li>
+									</ul>
 								</li>
 
 								<li class="nav-item">
@@ -282,8 +222,7 @@
 							<div class="others-options">
 								<ul>
 									<li>
-										<a href="Agenda tu Cita.php" class="default-btn" data-bs-target="#agendar"
-											data-bs-toggle="modal">
+										<a href="#" class="default-btn" data-bs-target="#agendar" data-bs-toggle="modal">
 											Agenda tu cita
 											<i class="ri-file-text-line"></i>
 										</a>
@@ -316,8 +255,7 @@
 							<div class="others-option justify-content-center d-flex align-items-center">
 								<ul>
 									<li>
-										<a href="Agenda tu Cita.php" class="default-btn" data-bs-target="#agendar"
-											data-bs-toggle="modal">
+										<a href="agendar-cita.php" class="default-btn" data-bs-target="#agendar" data-bs-toggle="modal">
 											Agendar tu cita
 											<i class="ri-file-text-line"></i>
 										</a>
@@ -339,9 +277,8 @@
 	</header>
 	<!-- Final Header -->
 
-	<!-- Start Modal Formulario Cita -->
-	<div class="modal fade" id="agendar" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
-		aria-labelledby="staticBackdropLabel" aria-hidden="true">
+	<!-- Modal Formulario Cita -->
+	<div class="modal fade" id="agendar" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
 		<div class="modal-dialog modal-dialog-centered">
 			<div class="modal-content">
 				<div class="modal-header">
@@ -349,38 +286,34 @@
 					<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
 				</div>
 				<div class="modal-body">
-					<!-- Formulario Agendar Cita -->
-					<section class="Agenda tu Cita-area">
+					<!-- Sección Agendar Cita -->
+					<section class="appointment-area">
 						<div class="container">
 							<div class="row">
-								<div class="Agenda tu Cita-action ptb-100">
+								<div class="appointment-action ptb-100">
 									<form>
 										<div class="row">
 											<div class="col-lg-6 col-md-6">
 												<div class="form-group">
-													<input type="text" class="form-control" id="First-Name"
-														placeholder="Nombre">
+													<input type="text" class="form-control" id="First-Name" placeholder="Nombre">
 												</div>
 											</div>
 
 											<div class="col-lg-6 col-md-6">
 												<div class="form-group">
-													<input type="text" class="form-control" id="Last-Name"
-														placeholder="Apellido">
+													<input type="text" class="form-control" id="Last-Name" placeholder="Apellido">
 												</div>
 											</div>
 
 											<div class="col-lg-6 col-md-6">
 												<div class="form-group">
-													<input type="email" class="form-control" id="Email"
-														placeholder="Correo Electrónico">
+													<input type="email" class="form-control" id="Email" placeholder="Correo Electrónico">
 												</div>
 											</div>
 
 											<div class="col-lg-6 col-md-6">
 												<div class="form-group">
-													<input type="text" class="form-control" id="Phone"
-														placeholder="Teléfono">
+													<input type="text" class="form-control" id="Phone" placeholder="Teléfono">
 												</div>
 											</div>
 
@@ -403,8 +336,7 @@
 											<div class="col-lg-6 col-md-6">
 												<div class="form-group">
 													<div class="input-group date" id="datetimepicker">
-														<input type="text" class="form-control" id="Date"
-															placeholder="dd/mm/yyyy">
+														<input type="text" class="form-control" id="Date" placeholder="dd/mm/yyyy">
 														<span class="input-group-addon"></span>
 														<i class="bx bx-calendar"></i>
 													</div>
@@ -413,8 +345,7 @@
 
 											<div class="col-12">
 												<div class="form-group">
-													<textarea name="message" class="form-control" id="Message" rows="6"
-														placeholder="¿Cuentanos en que podemos ayudarte?"></textarea>
+													<textarea name="message" class="form-control" id="Message" rows="6" placeholder="¿Cuentanos en que podemos ayudarte?"></textarea>
 												</div>
 											</div>
 
@@ -426,6 +357,7 @@
 											</div>
 										</div>
 									</form>
+									<!-- Final Formulario Agendar Cita -->
 								</div>
 							</div>
 						</div>
@@ -434,79 +366,79 @@
 			</div>
 		</div>
 	</div>
-	<!-- End Modal Formulario Cita -->
+	<!-- Final Modal Formulario Cita -->
 
-
-
-		<!-- Sidebar Info -->
-        <div class="sidebar-modal">
-            <div class="sidebar-modal-inner">
-				<div class="sidebar-header">
-					<div class="sidebar-logo">
-						<img src="assets/images/logo.png" alt="Logo">
-					</div>
-					
-					<span class="close-btn sidebar-modal-close-btn">
-						<i class="ri-close-fill"></i>
-					</span>
+	<!-- Sidebar Info -->
+	<div class="sidebar-modal">
+		<div class="sidebar-modal-inner">
+			<div class="sidebar-header">
+				<div class="sidebar-logo">
+					<img src="assets/images/logo.png" alt="Logo Gerardo Camacho">
 				</div>
-				
-                <div class="recent-product">
-                    <h3>Sobre mí</h3>
-					<p>Cirujano plástico Bogotá Colombia con más de 10 años de trayectoria con amplia experiencia en Cirugía Plástica facial, corporal reconocido en Marcación abdominal hombres y mujeres , Mamoplastia , Mommy Makeover con en el manejo de tecnología Vaser®. Laser, Micro Aire® y J-Plasma</p>
-				</div>
-				
-				<div class="contact-us">
-                    <h3>Contacto</h3>
 
-                    <ul>
-						<li>
-							<i class="ri-map-pin-line"></i>
-							Av. Carrera 9 # 115 -06 oficina 602 Oficina 602 Edificio Tierra Firme
-						</li>
-						<li>
-							<i class="ri-mail-line"></i>
-							<a href="mailto:pacientes@gerardocamacho.com"> pacientes@gerardocamacho.com</a>
-						</li>
-						<li>
-							<i class="ri-customer-service-fill"></i>
-							<a href="tel:(312)-895-9800">(312) 895-9800</a>
-						</li>
-					</ul>
-				</div>
-            </div>
-        </div>
-		<!-- Final Sidebar Info -->
-
-		<!-- Start Page Title Area -->
-		<div class="page-title-area">
-			<div class="container">
-				<div class="page-title-content">
-					<h2>Contacto</h2>
-
-					<ul>
-						<li>
-							<a href="index.php">
-								Inicio 
-							</a>
-						</li>
-
-						<li class="active">Contactenos</li>
-					</ul>
-				</div>
+				<span class="close-btn sidebar-modal-close-btn">
+					<i class="ri-close-fill"></i>
+				</span>
 			</div>
 
-			<div class="shape shape-1">
-				<img src="assets/images/page-title-circulo-medio-2.png" alt="Image">
+			<div class="recent-product">
+				<h3>Sobre mí</h3>
+				<p>Cirujano plástico Bogotá Colombia con más de 10 años de trayectoria con amplia experiencia en Cirugía
+					Plástica facial, corporal reconocido en Marcación abdominal hombres y mujeres , Mamoplastia , Mommy
+					Makeover con en el manejo de tecnología Vaser®. Laser, Micro Aire® y J-Plasma</p>
 			</div>
-			<div class="shape shape-2">
-				<img src="assets/images/page-title-shape-2.png" alt="Image">
+
+			<div class="contact-us">
+				<h3>Contacto</h3>
+
+				<ul>
+					<li>
+						<i class="ri-map-pin-line"></i>
+						Av. Carrera 9 # 115 -06 oficina 602 Oficina 602 Edificio Tierra Firme
+					</li>
+					<li>
+						<i class="ri-mail-line"></i>
+						<a href="mailto:pacientes@gerardocamacho.com"> pacientes@gerardocamacho.com</a>
+					</li>
+					<li>
+						<i class="ri-customer-service-fill"></i>
+						<a href="tel:(312)-895-9800">(312) 895-9800</a>
+					</li>
+				</ul>
 			</div>
 		</div>
-		<!-- End Page Title Area -->
+	</div>
+	<!-- Final Sidebar Info -->
 
-		<!-- Start Contact Info Area -->
-		<!-- <section class="contact-info-area pt-100 pb-70">
+	<!-- Sección Miga de Pan -->
+	<div class="page-title-area">
+		<div class="container">
+			<div class="page-title-content">
+				<h2>Contacto</h2>
+
+				<ul>
+					<li>
+						<a href="index.php">
+							Inicio
+						</a>
+					</li>
+
+					<li class="active">Contactenos</li>
+				</ul>
+			</div>
+		</div>
+
+		<div class="shape shape-1">
+			<img src="assets/images/page-title-circulo-medio-2.png" alt="Image">
+		</div>
+		<div class="shape shape-2">
+			<img src="assets/images/page-title-shape-2.png" alt="Image">
+		</div>
+	</div>
+	<!-- Final Sección Miga de Pan -->
+
+	<!-- Start Contact Info Area -->
+	<!-- <section class="contact-info-area pt-100 pb-70">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-4 col-md-6">
@@ -580,281 +512,282 @@
 				</div>
 			</div>
 		</section> -->
-		<!-- End Contact Info Area -->
+	<!-- End Contact Info Area -->
 
-		<!-- Start Contact Area -->
-		<section class="main-contact-area pb-100 py-5">
+	<!-- Start Contact Area -->
+	<section class="main-contact-area pb-100 py-5">
+		<div class="container">
+			<div class="section-title">
+				<h2>Escribenos</h2>
+			</div>
+
+			<form id="contactForm">
+				<div class="row">
+					<div class="col-lg-6 col-sm-6">
+						<div class="form-group">
+							<label>Nombre</label>
+							<input type="text" name="name" id="name" class="form-control" required="" data-error="Escribe tu Nombre Completo">
+							<div class="help-block with-errors"></div>
+						</div>
+					</div>
+
+					<div class="col-lg-6 col-sm-6">
+						<div class="form-group">
+							<label>Correo Electrónico</label>
+							<input type="email" name="email" id="email" class="form-control" required="" data-error="Escribe tu Correo Electrónico">
+							<div class="help-block with-errors"></div>
+						</div>
+					</div>
+
+					<div class="col-lg-6 col-sm-6">
+						<div class="form-group">
+							<label>Teléfono</label>
+							<input type="text" name="phone_number" id="phone_number" required="" data-error="Escribe tu Teléfono" class="form-control">
+							<div class="help-block with-errors"></div>
+						</div>
+					</div>
+
+					<div class="col-lg-6 col-sm-6">
+						<div class="form-group">
+							<label>Asunto</label>
+							<input type="text" name="msg_subject" id="msg_subject" class="form-control" required="" data-error="Escribe el asunto">
+							<div class="help-block with-errors"></div>
+						</div>
+					</div>
+
+					<div class="col-12">
+						<div class="form-group">
+							<label>¿Cuéntanos en que te podemos ayudar?</label>
+							<textarea name="message" class="form-control" id="message" cols="30" rows="8" required="" data-error="Escribe tu mensaje"></textarea>
+							<div class="help-block with-errors"></div>
+						</div>
+					</div>
+
+					<div class="col-lg-12 col-md-12">
+						<div class="form-group checkboxs">
+							<input type="checkbox" id="chb2">
+							<p>
+								Acepta <a href="terms-conditions.php">Terminos &amp; Condicioens</a>
+							</p>
+						</div>
+					</div>
+
+					<div class="col-lg-12 col-md-12">
+						<button type="submit" class="default-btn">
+							<span>
+								Enviar
+								<i class="ri-arrow-right-circle-line"></i>
+							</span>
+						</button>
+						<div id="msgSubmit" class="h3 text-center hidden"></div>
+						<div class="clearfix"></div>
+					</div>
+				</div>
+			</form>
+		</div>
+	</section>
+	<!-- End Contact Area -->
+
+	<!-- Start Map Area -->
+	<div class="map-area pb-100">
+		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3976.4404270601513!2d-74.03674378474936!3d4.6932788430274694!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3f9aa66d192863%3A0xcb7e903bcdac6ca9!2sLipolisis%20Colombia!5e0!3m2!1ses!2sco!4v1674157380267!5m2!1ses!2sco"></iframe>
+	</div>
+	<!-- End Map Area -->
+
+	<!-- Footer -->
+	<footer class="footer-area">
+		<div class="footer-bg pt-100 pb-70">
 			<div class="container">
-				<div class="section-title">
-					<h2>Escribenos</h2>
-				</div>
+				<div class="row">
+					<div class="col-lg-3 col-md-6">
+						<div class="single-footer-widget">
+							<a href="index.php" class="logo">
+								<img src="assets/images/white-logo.png" alt="Image">
+							</a>
 
-				<form id="contactForm">
-					<div class="row">
-						<div class="col-lg-6 col-sm-6">
-							<div class="form-group">
-								<label>Nombre</label>
-								<input type="text" name="name" id="name" class="form-control" required="" data-error="Escribe tu Nombre Completo">
-								<div class="help-block with-errors"></div>
-							</div>
-						</div>
-
-						<div class="col-lg-6 col-sm-6">
-							<div class="form-group">
-								<label>Correo Electrónico</label>
-								<input type="email" name="email" id="email" class="form-control" required="" data-error="Escribe tu Correo Electrónico">
-								<div class="help-block with-errors"></div>
-							</div>
-						</div>
-
-						<div class="col-lg-6 col-sm-6">
-							<div class="form-group">
-								<label>Teléfono</label>
-								<input type="text" name="phone_number" id="phone_number" required="" data-error="Escribe tu Teléfono" class="form-control">
-								<div class="help-block with-errors"></div>
-							</div>
-						</div>
-
-						<div class="col-lg-6 col-sm-6">
-							<div class="form-group">
-								<label>Asunto</label>
-								<input type="text" name="msg_subject" id="msg_subject" class="form-control" required="" data-error="Escribe el asunto">
-								<div class="help-block with-errors"></div>
-							</div>
-						</div>
-
-						<div class="col-12">
-							<div class="form-group">
-								<label>¿Cuéntanos en que te podemos ayudar?</label>
-								<textarea name="message" class="form-control" id="message" cols="30" rows="8" required="" data-error="Escribe tu mensaje"></textarea>
-								<div class="help-block with-errors"></div>
-							</div>
-						</div>
-
-						<div class="col-lg-12 col-md-12">
-							<div class="form-group checkboxs">
-								<input type="checkbox" id="chb2">
-								<p>
-									Acepta <a href="terms-conditions.php">Terminos &amp; Condicioens</a>
-								</p>
-							</div>
-						</div>
-
-						<div class="col-lg-12 col-md-12">
-							<button type="submit" class="default-btn">
-								<span>
-									Enviar
-									<i class="ri-arrow-right-circle-line"></i>
-								</span>
-							</button>
-							<div id="msgSubmit" class="h3 text-center hidden"></div>
-							<div class="clearfix"></div>
-						</div>
-					</div>
-				</form>
-			</div>
-		</section>
-		<!-- End Contact Area -->
-
-		<!-- Start Map Area -->
-		<div class="map-area pb-100">
-			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3976.4404270601513!2d-74.03674378474936!3d4.6932788430274694!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e3f9aa66d192863%3A0xcb7e903bcdac6ca9!2sLipolisis%20Colombia!5e0!3m2!1ses!2sco!4v1674157380267!5m2!1ses!2sco"></iframe>
-		</div>
-		<!-- End Map Area -->
-
-		<!-- Footer -->
-		<footer class="footer-area">
-			<div class="footer-bg pt-100 pb-70">
-				<div class="container">
-					<div class="row">
-						<div class="col-lg-3 col-md-6">
-							<div class="single-footer-widget">
-								<a href="index.php" class="logo">
-									<img src="assets/images/white-logo.png" alt="Image">
-								</a>
-	
-								<ul class="address">
-									<li>
-										<span>Contacto:</span>
-										<a href="tel:(312)-895-9800">(312) 895-9800</a>
-										<a href="tel:(312)-895-9888">(312) 895-9888</a>
-									</li>
-									<li>
-										<span>Correo Electrónico:</span>
-										<a href="mailto:pacientes@gerardocamacho.com">pacientes@gerardocamacho.com</a>
-									</li>
-									<li class="location">
-										<span>Dirección:</span>
+							<ul class="address">
+								<li>
+									<span>Contacto:</span>
+									<a href="tel:(312)-895-9800">(312) 895-9800</a>
+									<a href="tel:(312)-895-9888">(312) 895-9888</a>
+								</li>
+								<li>
+									<span>Correo Electrónico:</span>
+									<a href="mailto:pacientes@gerardocamacho.com">pacientes@gerardocamacho.com</a>
+								</li>
+								<li class="location">
+									<span>Dirección:</span>
 									Av. Carrera 9 # 115 -06 oficina 602 Oficina 602 Edificio Tierra Firme
-									</li>
-								</ul>
-							</div>
+								</li>
+							</ul>
 						</div>
-	
-						<div class="col-lg-3 col-md-6">
-							<div class="single-footer-widget">
-								<h3>Compañia</h3>
-	
-								<ul class="import-link">
-									<li>
-										<a href="gallery.php">Galeria</a>
-									</li>
-									<li>
-										<a href="contacto.php">Contacto</a>
-									</li>
-									<li>
-										<a href="tratamientos.php">Procedimientos</a>
-									</li>
-									<li>
-										<a href="nosotros.php">Dr.Gerardo Camacho</a>
-									</li>
-									<li>
-										<a href="blog.php">Blog</a>
-									</li>
-								</ul>
-							</div>
+					</div>
+
+					<div class="col-lg-3 col-md-6">
+						<div class="single-footer-widget">
+							<h3>Compañia</h3>
+
+							<ul class="import-link">
+								<li>
+									<a href="galeria.php">Galeria</a>
+								</li>
+								<li>
+									<a href="contacto.php">Contacto</a>
+								</li>
+								<li>
+									<a href="servicios.php">Procedimientos</a>
+								</li>
+								<li>
+									<a href="nosotros.php">Dr.Gerardo Camacho</a>
+								</li>
+								<li>
+									<a href="blog.php">Blog</a>
+								</li>
+							</ul>
 						</div>
-	
-						<div class="col-lg-3 col-md-6">
-							<div class="single-footer-widget">
-								<h3>Procediminetos</h3>
-	
-								<ul class="import-link">
-									<li>
-										<a href="#">Cirugía estética hombres</a>
-									</li>
-									<li>
-										<a href="#">Cirugía estética mujeres</a>
-									</li>
-									<li>
-										<a href="#">Cirugía reconstructiva</a>
-									</li>
-									<li>
-										<a href="#">Cirugía genital</a>
-									</li>
-									<li>
-										<a href="#">Procedimientos antiedad	</a>
-									</li>
-									<li>
-										<a href="#">Tecnologías invasivas y no invasivas</a>
-									</li>
-								</ul>
-							</div>
+					</div>
+
+					<div class="col-lg-3 col-md-6">
+						<div class="single-footer-widget">
+							<h3>Tratamientos</h3>
+
+							<ul class="import-link">
+								<li>
+									<a href="#">Cirugía estética hombres</a>
+								</li>
+								<li>
+									<a href="#">Cirugía estética mujeres</a>
+								</li>
+								<li>
+									<a href="#">Cirugía reconstructiva</a>
+								</li>
+								<li>
+									<a href="#">Cirugía genital</a>
+								</li>
+								<li>
+									<a href="#">Procedimientos antiedad </a>
+								</li>
+								<li>
+									<a href="#">Tecnologías invasivas y no invasivas</a>
+								</li>
+							</ul>
 						</div>
-	
-						<div class="col-lg-3 col-md-6">
-							<div class="single-footer-widget">
-								<h3>Newsletter</h3>
-								<p>Suscribete a nuestro blog</p>
-	
-								<form class="newsletter-form" data-toggle="validator">
-									<input type="email" class="form-control" placeholder="Tu Email" name="EMAIL" required="" autocomplete="off">
-		
-									<button class="default-btn" type="submit">
-										Send
-									</button>
-		
-									<div id="validator-newsletter" class="form-result"></div>
-								</form>	
-	
-								<ul class="social-icon">
-									<li>
-										<a href="../index.htm" target="_blank">
-											<i class="ri-linkedin-fill"></i>
-										</a>
-									</li>
-									<li>
-										<a href="../index-1.htm" target="_blank">
-											<i class="ri-facebook-fill"></i>
-										</a>
-									</li>
-									<li>
-										<a href="../index-3.htm" target="_blank">
-											<i class="ri-youtube-fill"></i>
-										</a>
-									</li>
-									<li>
-										<a href="../index-4.htm" target="_blank">
-											<i class="ri-instagram-fill"></i>
-										</a>
-									</li>
-								</ul>
-							</div>
+					</div>
+
+					<div class="col-lg-3 col-md-6">
+						<div class="single-footer-widget">
+							<h3>Newsletter</h3>
+							<p>Suscribete a nuestro blog</p>
+
+							<form class="newsletter-form" data-toggle="validator">
+								<input type="email" class="form-control" placeholder="Tu Email" name="EMAIL" required="" autocomplete="off">
+
+								<button class="default-btn" type="submit">
+									Send
+								</button>
+
+								<div id="validator-newsletter" class="form-result"></div>
+							</form>
+
+							<ul class="social-icon">
+								<li>
+									<a href="../index.htm" target="_blank">
+										<i class="ri-linkedin-fill"></i>
+									</a>
+								</li>
+								<li>
+									<a href="../index-1.htm" target="_blank">
+										<i class="ri-facebook-fill"></i>
+									</a>
+								</li>
+								<li>
+									<a href="../index-3.htm" target="_blank">
+										<i class="ri-youtube-fill"></i>
+									</a>
+								</li>
+								<li>
+									<a href="../index-4.htm" target="_blank">
+										<i class="ri-instagram-fill"></i>
+									</a>
+								</li>
+							</ul>
 						</div>
 					</div>
 				</div>
-
-				<div class="shape shape-1">
-					<img src="assets/images/circulo-medio-2.png" alt="Image">
-				</div>
-				<div class="shape shape-2">
-					<img src="assets/images/footer-shape-2.png" alt="Image">
-				</div>
-				<div class="shape shape-3">
-					<img src="assets/images/circulo-medio.png" alt="Image">
-				</div>
-				<div class="shape shape-4">
-					<img src="assets/images/circulo-pequeno.png" alt="Image">
-				</div>
-				<div class="shape shape-5">
-					<img src="assets/images/footer-shape-5.png" alt="Image">
-				</div>
 			</div>
-		</footer>
-		<!-- Final Footer -->
 
-		<!-- Autor -->
-		<div class="copy-right-area">
-			<div class="copy-right-bg">
-				<div class="container">
-					<div class="copy-right-border">
-						<p>
-							Copyright <i class="ri-copyright-line"></i>2023 Dr. Gerardo Camacho
-							<a href=""#"" target="_blank">💙</a>
-						</p>
-					</div>
+			<div class="shape shape-1">
+				<img src="assets/images/circulo-medio-2.png" alt="Image">
+			</div>
+			<div class="shape shape-2">
+				<img src="assets/images/footer-shape-2.png" alt="Image">
+			</div>
+			<div class="shape shape-3">
+				<img src="assets/images/circulo-medio.png" alt="Image">
+			</div>
+			<div class="shape shape-4">
+				<img src="assets/images/circulo-pequeno.png" alt="Image">
+			</div>
+			<div class="shape shape-5">
+				<img src="assets/images/footer-shape-5.png" alt="Image">
+			</div>
+		</div>
+	</footer>
+	<!-- Final Footer -->
+
+	<!-- Autor -->
+	<div class="copy-right-area">
+		<div class="copy-right-bg">
+			<div class="container">
+				<div class="copy-right-border">
+					<p>
+						Copyright <i class="ri-copyright-line"></i>2023 Dr. Gerardo Camacho
+						<a href="" #"" target="_blank">💙</a>
+					</p>
 				</div>
 			</div>
 		</div>
-		<!-- Final Autor -->
-		
-		<!-- Scroll Top -->
-		<div class="go-top">
-			<i class="ri-arrow-up-s-fill"></i>
-			<i class="ri-arrow-up-s-fill"></i>
-		</div>
-		<!-- Final Scroll Top -->
-		
+	</div>
+	<!-- Final Autor -->
 
-        <!-- Jquery Min JS -->
-        <script src="assets/js/jquery.min.js"></script> 
-        <!-- Bootstrap Bundle Min JS -->
-        <script src="assets/js/bootstrap.bundle.min.js"></script>
-        <!-- Meanmenu Min JS -->
-		<script src="assets/js/meanmenu.min.js"></script>
-		<!-- Owl Carousel Min JS -->
-		<script src="assets/js/owl.carousel.min.js"></script>
-		<!-- Wow Min JS -->
-        <script src="assets/js/wow.min.js"></script>
-		<!-- Magnific Popup Min JS -->
-        <script src="assets/js/magnific-popup.min.js"></script>
-		<!-- Bootstrap Datepicker Min JS -->
-        <script src="assets/js/bootstrap-datepicker.min.js"></script>
-		<!-- Before After Min JS -->
-        <script src="assets/js/before-after.min.js"></script>
-		<!-- Appear Min JS -->
-        <script src="assets/js/appear.min.js"></script>
-		<!-- Odometer Min JS -->
-        <script src="assets/js/odometer.min.js"></script>
-		<!-- Mixitup Min JS -->
-        <script src="assets/js/mixitup.min.js"></script>
-		<!-- Form Validator Min JS -->
-		<script src="assets/js/form-validator.min.js"></script>
-		<!-- Contact JS -->
-		<script src="assets/js/contact-form-script.js"></script>
-		<!-- Ajaxchimp Min JS -->
-		<script src="assets/js/ajaxchimp.min.js"></script>
-        <!-- Custom JS -->
-		<script src="assets/js/custom.js"></script>
-    </body>
+	<!-- Scroll Top -->
+	<div class="go-top">
+		<i class="ri-arrow-up-s-fill"></i>
+		<i class="ri-arrow-up-s-fill"></i>
+	</div>
+	<!-- Final Scroll Top -->
+
+
+	<!-- Jquery Min JS -->
+	<script src="assets/js/jquery.min.js"></script>
+	<!-- Bootstrap Bundle Min JS -->
+	<script src="assets/js/bootstrap.bundle.min.js"></script>
+	<!-- Meanmenu Min JS -->
+	<script src="assets/js/meanmenu.min.js"></script>
+	<!-- Owl Carousel Min JS -->
+	<script src="assets/js/owl.carousel.min.js"></script>
+	<!-- Wow Min JS -->
+	<script src="assets/js/wow.min.js"></script>
+	<!-- Magnific Popup Min JS -->
+	<script src="assets/js/magnific-popup.min.js"></script>
+	<!-- Bootstrap Datepicker Min JS -->
+	<script src="assets/js/bootstrap-datepicker.min.js"></script>
+	<!-- Before After Min JS -->
+	<script src="assets/js/before-after.min.js"></script>
+	<!-- Appear Min JS -->
+	<script src="assets/js/appear.min.js"></script>
+	<!-- Odometer Min JS -->
+	<script src="assets/js/odometer.min.js"></script>
+	<!-- Mixitup Min JS -->
+	<script src="assets/js/mixitup.min.js"></script>
+	<!-- Form Validator Min JS -->
+	<script src="assets/js/form-validator.min.js"></script>
+	<!-- Contact JS -->
+	<script src="assets/js/contact-form-script.js"></script>
+	<!-- Ajaxchimp Min JS -->
+	<script src="assets/js/ajaxchimp.min.js"></script>
+	<!-- Custom JS -->
+	<script src="assets/js/custom.js"></script>
+</body>
+
 </html>

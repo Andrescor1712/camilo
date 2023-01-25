@@ -164,7 +164,7 @@
 		
 												<ul class="dropdown-menu">
 													<li class="nav-item">
-														<a href="services.php" class="nav-link">Services</a>
+														<a href="servicios.php" class="nav-link">Services</a>
 													</li>
 													<li class="nav-item">
 														<a href="services-details.php" class="nav-link">Services Details</a>
@@ -236,13 +236,13 @@
 												</ul>
 											</li>
                                             <li class="nav-item">
-												<a href="gallery.php" class="nav-link">Gallery</a>
+												<a href="galeria.php" class="nav-link">Gallery</a>
 											</li>
                                             <li class="nav-item">
 												<a href="faq.php" class="nav-link">FAQ</a>
 											</li>
 											<li class="nav-item">
-												<a href="testimonials.php" class="nav-link">Testimonials </a>
+												<a href="testimonios.php" class="nav-link">Testimonials </a>
 											</li>
 											<li class="nav-item">
 												<a href="privacy-policy.php" class="nav-link">Privacy Policy</a>
@@ -263,7 +263,7 @@
 									</li> -->
 
 									<li class="nav-item">
-										<a href="tratamientos.php" class="nav-link">Tratamientos</a>
+										<a href="servicios.php" class="nav-link">Tratamientos</a>
 									</li>
 
                                     <li class="nav-item">
@@ -375,7 +375,7 @@
         </div>
 		<!-- End Sidebar Modal -->
 
-		<!-- Start Page Title Area -->
+		<!-- Sección Miga de Pan -->
 		<div class="page-title-area">
 			<div class="container">
 				<div class="page-title-content">
@@ -400,9 +400,9 @@
 				<img src="assets/images/page-title-shape-2.png" alt="Image">
 			</div>
 		</div>
-		<!-- End Page Title Area -->
+		<!-- Final Sección Miga de Pan -->
 
-		<!-- Start Appointment Area -->
+		<!-- Sección Agendar Cita -->
 		<section class="appointment-area ptb-100">
 			<div class="container">
 				<div class="row">
@@ -513,13 +513,13 @@
 	
 								<ul class="import-link">
 									<li>
-										<a href="gallery.php">Galeria</a>
+										<a href="galeria.php">Galeria</a>
 									</li>
 									<li>
 										<a href="contacto.php">Contacto</a>
 									</li>
 									<li>
-										<a href="tratamientos.php">Procedimientos</a>
+										<a href="servicios.php">Procedimientos</a>
 									</li>
 									<li>
 										<a href="nosotros.php">Dr.Gerardo Camacho</a>
@@ -533,7 +533,7 @@
 	
 						<div class="col-lg-3 col-md-6">
 							<div class="single-footer-widget">
-								<h3>Procediminetos</h3>
+								<h3>Tratamientos</h3>
 	
 								<ul class="import-link">
 									<li>

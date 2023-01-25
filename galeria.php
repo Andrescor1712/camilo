@@ -15,7 +15,7 @@
 	<!-- Favicon -->
 	<link rel="icon" type="image/png" href="assets/images/favicon.png">
 	<!-- Titulo Página -->
-	<title>Consejos para la salud | Dr. Gerardo Camacho </title>
+	<title>Casos de éxito | Dr. Gerardo Camacho </title>
 
 	<!-- Bootstrap Min CSS -->
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -42,6 +42,8 @@
 	<!-- Responsive CSS -->
 	<link rel="stylesheet" href="assets/css/responsive.css">
 
+</head>
+
 <body>
 	<!-- Barra de carga -->
 	<div class="preloader">
@@ -63,7 +65,6 @@
 		</div>
 	</div>
 	<!-- Final Barra de Carga -->
-
 
 	<!-- Comiezo Header -->
 	<header class="header-area">
@@ -156,7 +157,7 @@
 											<a href="nosotros.php" class="nav-link">Sobre mí</a>
 										</li>
 										<li class="nav-item">
-											<a href="galeria.php" class="nav-link">Casos de éxito</a>
+											<a href="galeria.php" class="nav-link active">Casos de éxito</a>
 										</li>
 										<li class="nav-item">
 											<a href="testimonios.php" class="nav-link">Testimonios</a>
@@ -206,7 +207,7 @@
 								</li>
 
 								<li class="nav-item">
-									<a href="blog.php" class="nav-link active">
+									<a href="blog.php" class="nav-link">
 										Blog
 									</a>
 
@@ -412,7 +413,7 @@
 	<div class="page-title-area">
 		<div class="container">
 			<div class="page-title-content">
-				<h2>Consejos para la salud</h2>
+				<h2>Casos de éxito</h2>
 
 				<ul>
 					<li>
@@ -421,7 +422,7 @@
 						</a>
 					</li>
 
-					<li class="active">Consejos para la salud</li>
+					<li class="active">Casos de éxito</li>
 				</ul>
 			</div>
 		</div>
@@ -435,322 +436,149 @@
 	</div>
 	<!-- Final Sección Miga de Pan -->
 
-	<!-- Start Blog Area -->
-	<section class="blog-post-grid-sidebar-area ptb-100">
+	<!-- Sección Galería -->
+	<div class="gallery-area gallery-popup pt-100 pb-70">
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-8">
-					<div class="row">
-						<div class="col-lg-6 col-md-6">
-							<div class="single-blog">
-								<a href="blog-details.php">
-									<img src="assets/images/blog/blog-1.jpg" alt="Image">
-								</a>
+				<div class="col-lg-12">
+					<div class="shorting-menu">
+						<button class="filter" data-filter="all">
+							Todas la imagénes
+						</button>
 
-								<div class="blog-content">
-									<ul>
-										<li>
-											<span>Face Lift</span>
-										</li>
-										<li>
-											<a href="#">05 January, 2021</a>
-										</li>
-									</ul>
+						<button class="filter" data-filter=".face-lift">
+							Face Lift
+						</button>
 
-									<h3>
-										<a href="blog-details.php">
-											Tellus Vulputate Non Magna Eget Urna Mollis Lacinia Mollis
-										</a>
-									</h3>
+						<button class="filter" data-filter=".brow-lift">
+							Brow Lift
+						</button>
 
-									<p>The most common treatment area for fat grafting in the face may inject into several areas area for fat grafting in the face may</p>
+						<button class="filter" data-filter=".body">
+							Body
+						</button>
 
-									<a href="blog-details.php" class="read-more">
-										Leer más
+						<button class="filter" data-filter=".brachioplasty">
+							Brachioplasty
+						</button>
+					</div>
+				</div>
+			</div>
+
+			<div class="shorting">
+				<div class="row">
+					<div class="col-lg-6 col-md-6 mix face-lift">
+						<div class="gallery-item">
+							<img src="assets/images/gallery/gallery-6.jpg" alt="Image">
+
+							<div class="gallery-item-content">
+								<div class="gallery-link">
+									<a href="assets/images/gallery/gallery-6.jpg" class="img">
+										<i class="ri-add-fill"></i>
 									</a>
-								</div>
-							</div>
-						</div>
-
-						<div class="col-lg-6 col-md-6">
-							<div class="single-blog">
-								<a href="blog-details.php">
-									<img src="assets/images/blog/blog-2.jpg" alt="Image">
-								</a>
-
-								<div class="blog-content">
-									<ul>
-										<li>
-											<span>Brow Lift</span>
-										</li>
-										<li>
-											<a href="#">06 January, 2021</a>
-										</li>
-									</ul>
-
-									<h3>
-										<a href="blog-details.php">
-											Face Lift is a Non-surgical Surgery to Improve Your Overall Glamour
-										</a>
-									</h3>
-
-									<p>The most common treatment area for fat grafting is the face may inject into several areas area for fat grafting is the face may</p>
-
-									<a href="blog-details.php" class="read-more">
-										Leer más
+									<a href="galeria.php">
+										<i class="ri-links-fill"></i>
 									</a>
+									<p>Face Life Surgery</p>
 								</div>
-							</div>
-						</div>
-
-						<div class="col-lg-6 col-md-6">
-							<div class="single-blog">
-								<a href="blog-details.php">
-									<img src="assets/images/blog/blog-3.jpg" alt="Image">
-								</a>
-
-								<div class="blog-content">
-									<ul>
-										<li>
-											<span>Face Lift</span>
-										</li>
-										<li>
-											<a href="#">07 January, 2021</a>
-										</li>
-									</ul>
-
-									<h3>
-										<a href="blog-details.php">
-											Most Popular Breast Implant Surgeon in United State
-										</a>
-									</h3>
-
-									<p>The most popular breast implant in the United States area for fat grafting in the face may inject into several areas area for fat grafting</p>
-
-									<a href="blog-details.php" class="read-more">
-										Leer más
-									</a>
-								</div>
-							</div>
-						</div>
-
-						<div class="col-lg-6 col-md-6">
-							<div class="single-blog">
-								<a href="blog-details.php">
-									<img src="assets/images/blog/blog-4.jpg" alt="Image">
-								</a>
-
-								<div class="blog-content">
-									<ul>
-										<li>
-											<span>Face Lift</span>
-										</li>
-										<li>
-											<a href="#">07 January, 2021</a>
-										</li>
-									</ul>
-
-									<h3>
-										<a href="blog-details.php">
-											San Jose’s Top Coolsculpting Center
-										</a>
-									</h3>
-
-									<p>The most popular breast implant in the United States area for fat grafting in the face may inject into several areas area for fat grafting</p>
-
-									<a href="blog-details.php" class="read-more">
-										Leer más
-									</a>
-								</div>
-							</div>
-						</div>
-
-						<div class="col-lg-6 col-md-6">
-							<div class="single-blog">
-								<a href="blog-details.php">
-									<img src="assets/images/blog/blog-5.jpg" alt="Image">
-								</a>
-
-								<div class="blog-content">
-									<ul>
-										<li>
-											<span>Face Lift</span>
-										</li>
-										<li>
-											<a href="#">07 January, 2021</a>
-										</li>
-									</ul>
-
-									<h3>
-										<a href="blog-details.php">
-											Sculptural Buttock Lift
-										</a>
-									</h3>
-
-									<p>The most popular breast implant in the United States area for fat grafting in the face may inject into several areas area for fat grafting</p>
-
-									<a href="blog-details.php" class="read-more">
-										Leer más
-									</a>
-								</div>
-							</div>
-						</div>
-
-						<div class="col-lg-6 col-md-6">
-							<div class="single-blog">
-								<a href="blog-details.php">
-									<img src="assets/images/blog/blog-6.jpg" alt="Image">
-								</a>
-
-								<div class="blog-content">
-									<ul>
-										<li>
-											<span>Face Lift</span>
-										</li>
-										<li>
-											<a href="#">07 January, 2021</a>
-										</li>
-									</ul>
-
-									<h3>
-										<a href="blog-details.php">
-											Picot's Is The Evolution of Tattoo
-										</a>
-									</h3>
-
-									<p>The most popular breast implant in the United States area for fat grafting in the face may inject into several areas area for fat grafting</p>
-
-									<a href="blog-details.php" class="read-more">
-										Leer más
-									</a>
-								</div>
-							</div>
-						</div>
-
-						<div class="col-12">
-							<div class="pagination-area">
-								<span class="page-numbers current" aria-current="page">1</span>
-								<a href="#" class="page-numbers">2</a>
-								<a href="#" class="page-numbers">3</a>
-
-								<a href="#" class="next page-numbers">
-									<i class="ri-arrow-right-s-line"></i>
-								</a>
 							</div>
 						</div>
 					</div>
-				</div>
 
-				<div class="col-lg-4">
-					<div class="widget-sidebar">
-						<div class="sidebar-widget search">
-							<form class="search-form">
-								<input class="form-control" name="search" placeholder="Search..." type="text">
-								<button class="search-button" type="submit">
-									<i class="ri-search-line"></i>
-								</button>
-							</form>
+					<div class="col-lg-6 col-md-6 mix brow-lift brachioplasty">
+						<div class="gallery-item">
+							<img src="assets/images/gallery/gallery-7.jpg" alt="Image">
+
+							<div class="gallery-item-content">
+								<div class="gallery-link">
+									<a href="assets/images/gallery/gallery-7.jpg" class="img">
+										<i class="ri-add-fill"></i>
+									</a>
+									<a href="galeria.php">
+										<i class="ri-links-fill"></i>
+									</a>
+									<p>Face Life Surgery</p>
+								</div>
+							</div>
 						</div>
+					</div>
 
-						<div class="sidebar-widget categories">
-							<h3>Categories</h3>
+					<div class="col-lg-6 col-md-6 mix face-lift">
+						<div class="gallery-item">
+							<img src="assets/images/gallery/gallery-8.jpg" alt="Image">
 
-							<ul>
-								<li>
-									<a href="#">
-										Eyelid Surgery(05)
+							<div class="gallery-item-content">
+								<div class="gallery-link">
+									<a href="assets/images/gallery/gallery-8.jpg" class="img">
+										<i class="ri-add-fill"></i>
 									</a>
-								</li>
-								<li>
-									<a href="#">
-										Body(10)
+									<a href="galeria.php">
+										<i class="ri-links-fill"></i>
 									</a>
-								</li>
-								<li>
-									<a href="#">
-										Face Surgery(04)
-									</a>
-								</li>
-								<li>
-									<a href="#">
-										Lip Augmentation(08)
-									</a>
-								</li>
-								<li>
-									<a href="#">
-										Breast Implant(07)
-									</a>
-								</li>
-								<li>
-									<a href="#">
-										Non-Surgical(06)
-									</a>
-								</li>
-							</ul>
+									<p>Face Life Surgery</p>
+								</div>
+							</div>
 						</div>
+					</div>
 
-						<div class="sidebar-widget recent-post">
-							<h3 class="widget-title">Recientemente</h3>
+					<div class="col-lg-6 col-md-6 mix brow-lift brachioplasty">
+						<div class="gallery-item">
+							<img src="assets/images/gallery/gallery-9.jpg" alt="Image">
 
-							<ul>
-								<li>
-									<a href="blog-details.php">
-										Tellus Vulputate Non Magna Eget Urna Mollis Lacinia Mollis
-										<img src="assets/images/blog-details/recent-post-1.jpg" alt="Image">
+							<div class="gallery-item-content">
+								<div class="gallery-link">
+									<a href="assets/images/gallery/gallery-9.jpg" class="img">
+										<i class="ri-add-fill"></i>
 									</a>
-									<span>Dec 15, 2020</span>
-								</li>
-								<li>
-									<a href="blog-details.php">
-										Face Lift Is A Non-surgical Surgery To Improve
-										<img src="assets/images/blog-details/recent-post-2.jpg" alt="Image">
+									<a href="galeria.php">
+										<i class="ri-links-fill"></i>
 									</a>
-									<span>Dec 16, 2020</span>
-								</li>
-								<li>
-									<a href="blog-details.php">
-										Most Popular Breast Implant Surgeon In United State
-										<img src="assets/images/blog-details/recent-post-3.jpg" alt="Image">
-									</a>
-									<span>Dec 17, 2020</span>
-								</li>
-							</ul>
+									<p>Face Life Surgery</p>
+								</div>
+							</div>
 						</div>
+					</div>
 
-						<div class="sidebar-widget tags mb-0">
-							<h3>Tags</h3>
+					<div class="col-lg-6 col-md-6 mix body">
+						<div class="gallery-item">
+							<img src="assets/images/gallery/gallery-10.jpg" alt="Image">
 
-							<ul>
-								<li>
-									<a href="#">Face Lift</a>
-								</li>
-								<li>
-									<a href="#">Surgery</a>
-								</li>
-								<li>
-									<a href="#">Body</a>
-								</li>
-								<li>
-									<a href="#">Surgical</a>
-								</li>
-								<li>
-									<a href="#">Implant</a>
-								</li>
-								<li>
-									<a href="#">Non-Surgical</a>
-								</li>
-								<li>
-									<a href="#">Eyelid</a>
-								</li>
-							</ul>
+							<div class="gallery-item-content">
+								<div class="gallery-link">
+									<a href="assets/images/gallery/gallery-10.jpg" class="img">
+										<i class="ri-add-fill"></i>
+									</a>
+									<a href="galeria.php">
+										<i class="ri-links-fill"></i>
+									</a>
+									<p>Face Life Surgery</p>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-lg-6 col-md-6 mix body brachioplasty">
+						<div class="gallery-item">
+							<img src="assets/images/gallery/gallery-11.jpg" alt="Image">
+
+							<div class="gallery-item-content">
+								<div class="gallery-link">
+									<a href="assets/images/gallery/gallery-11.jpg" class="img">
+										<i class="ri-add-fill"></i>
+									</a>
+									<a href="galeria.php">
+										<i class="ri-links-fill"></i>
+									</a>
+									<p>Face Life Surgery</p>
+								</div>
+							</div>
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
-	</section>
-	<!-- Final Sección Blog -->
-
+	</div>
+	<!-- Final Sección Galería -->
 	<!-- Footer -->
 	<footer class="footer-area">
 		<div class="footer-bg pt-100 pb-70">
@@ -840,7 +668,7 @@
 								<input type="email" class="form-control" placeholder="Tu Email" name="EMAIL" required="" autocomplete="off">
 
 								<button class="default-btn" type="submit">
-									Send
+									Enviar
 								</button>
 
 								<div id="validator-newsletter" class="form-result"></div>
